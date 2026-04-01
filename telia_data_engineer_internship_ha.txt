@@ -1,0 +1,30 @@
+TELIA DATA ENGINEER INTERNSHIP - HOME ASSIGNMENT
+
+
+Overview
+Your task is to build a simple ETL (Extract, Transform, Load) pipeline in Python that collects the last 30 days of weather data for European capital cities and stores it in a local database. The database to
+choose is up to you.
+
+
+Data Sources
+1. RestCountries API - https://restcountries.com/v3.1/region/europe
+Fields to extract from each country: country name, capital city, capital coordinates (latitude & longitude), population and area (optional).
+2. Open-Meteo Archive API - https://archive-api.open-meteo.com/v1/archive
+Use the coordinates from RestCountries to fetch the last 30 days of weather per capital: max/min temperature, precipitation sum, max windspeed (km/h) and sunshine duration.
+For the exact field names, refer to the API documentation. https://open-meteo.com/en/docs/historical-weather-api
+
+
+Pipeline Steps
+Your pipeline should follow these steps:
+1. Extract - Fetch all European countries and their capital coordinates from RestCountries.
+Then use those coordinates to fetch 30 days of weather data from Open-Meteo for each capital.
+2. Transform - Clean and prepare the data before loading. Things to consider: are there any countries missing coordinates? Does the sunshine duration need converting? Are all numeric values in a sensible format?
+3. Load - Save the data into your chosen database. Think about how to structure your tables - it is good practice to keep the raw data separate from the cleaned data.
+4. Views - Build analytical views on top of your cleaned tables. Capitals ranked by average temperature, countries with the most rainfall, a full 30-day summary per country.
+5. Verify that the data is correct.
+
+
+Deliverables
+1. Database dump (structure)
+2. Source code with brief documentation via Github/Gitlab. Make a public repository and provide us a link.
+Write us your best code. Happy coding!
