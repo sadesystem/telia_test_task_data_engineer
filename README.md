@@ -1,5 +1,16 @@
 # Telia test task data engineer
-Repository for Telia 2026 data engineer test task
+
+Repository for Telia 2026 data engineer test task. The solution can be found in the Jupyter file 
+
+## Use of AI
+
+I used GitHub Copilot to generate the initial version of the task in four parts:
+1. I prompted the AI to create a thorough plan for the task with the text of the test task
+2. I prompted the AI to follow the plan thoroughly and write the code in a readable format with clear steps
+3. I used the reviewer AI prompt to review the code
+4. Then, I went through the code line by line to verify all the changes
+
+This follows the use of AI, which I would also do at the workplace. To let AI handle the time-consuming technical steps while I focus on high-level understanding and tasks. Then I would verify the changes made by AI. 
 
 ## Database structure information 
 
@@ -55,10 +66,10 @@ CREATE VIEW v_capitals_ranked_by_avg_temp AS
 SELECT country, capital, ROUND(AVG(temperature_2m_max), 2) AS avg_temperature_2m_max
 FROM clean_weather_daily
 GROUP BY country, capital
-ORDER BY avg_temperature_2m_max DESC;```
+ORDER BY avg_temperature_2m_max DESC;
 
 CREATE VIEW v_countries_most_rainfall AS
 SELECT country, capital, ROUND(SUM(precipitation_sum), 2) AS total_precipitation_sum
 FROM clean_weather_daily
 GROUP BY country, capital
-ORDER BY total_precipitation_sum DESC;`
+ORDER BY total_precipitation_sum DESC;
