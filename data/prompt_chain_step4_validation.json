@@ -1,0 +1,22 @@
+{
+  "validation_status": "PASS",
+  "checks": [
+    {
+      "check_name": "Row count behavior",
+      "status": "PASS",
+      "details": "Original rows=200, Transformed rows=200"
+    },
+    {
+      "check_name": "Required schema columns",
+      "status": "PASS",
+      "details": "Missing: []"
+    },
+    {
+      "check_name": "Dedup correctness",
+      "status": "PASS",
+      "details": "Duplicate key rows after transform: 0"
+    }
+  ],
+  "issues_found": [],
+  "recommended_fixes": []
+}

@@ -1,0 +1,38 @@
+{
+  "transformation_plan": [
+    {
+      "step_number": 1,
+      "what_to_transform": "Normalize text fields",
+      "how_to_transform": "Strip whitespace and title-case country/capital",
+      "why_this_step_is_needed": "Avoid duplicate keys caused by casing and spaces",
+      "expected_effect_on_data": "No row count change"
+    },
+    {
+      "step_number": 2,
+      "what_to_transform": "Convert numeric columns",
+      "how_to_transform": "Use pandas to_numeric with coercion",
+      "why_this_step_is_needed": "Enable robust aggregations",
+      "expected_effect_on_data": "Potential nulls from invalid values"
+    },
+    {
+      "step_number": 3,
+      "what_to_transform": "Convert sunshine seconds to hours",
+      "how_to_transform": "Create sunshine_duration_hours = sunshine_duration / 3600",
+      "why_this_step_is_needed": "Human-readable metric",
+      "expected_effect_on_data": "Adds one column"
+    },
+    {
+      "step_number": 4,
+      "what_to_transform": "Deduplicate by country-capital-date",
+      "how_to_transform": "drop_duplicates keep first",
+      "why_this_step_is_needed": "One record per capital per date",
+      "expected_effect_on_data": "Row count can decrease"
+    }
+  ],
+  "assumptions": [
+    "Country + capital + date is unique business key"
+  ],
+  "risks": [
+    "Keeping first duplicate can hide conflicting values"
+  ]
+}

@@ -1,0 +1,1591 @@
+﻿country,capital,date,temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max,sunshine_duration
+Isle of Man,Douglas,2026-03-01,9.6,6.4,4.0,44.5,1733.35
+Isle of Man,Douglas,2026-03-02,9.6,5.8,10.9,44.2,24666.04
+Isle of Man,Douglas,2026-03-03,8.8,1.0,0.0,14.0,38702.13
+Isle of Man,Douglas,2026-03-04,10.5,6.3,0.0,18.1,38533.25
+Isle of Man,Douglas,2026-03-05,10.4,4.3,4.4,36.8,13842.21
+Isle of Man,Douglas,2026-03-06,7.8,1.6,0.0,22.6,36990.56
+Isle of Man,Douglas,2026-03-07,7.2,1.2,0.0,18.2,39600.0
+Isle of Man,Douglas,2026-03-08,8.6,2.3,0.0,17.4,27767.62
+Isle of Man,Douglas,2026-03-09,9.9,7.2,3.9,21.5,20871.34
+Isle of Man,Douglas,2026-03-10,9.0,6.3,5.0,42.1,0.0
+Isle of Man,Douglas,2026-03-11,9.6,6.1,0.4,34.6,36063.17
+Isle of Man,Douglas,2026-03-12,9.4,4.7,15.8,54.1,0.0
+Isle of Man,Douglas,2026-03-13,6.2,3.1,1.6,40.7,33876.57
+Isle of Man,Douglas,2026-03-14,7.9,1.5,0.5,19.5,39600.0
+Isle of Man,Douglas,2026-03-15,8.1,3.8,4.9,37.0,19887.71
+Isle of Man,Douglas,2026-03-16,9.5,3.7,5.1,33.5,7997.4
+Isle of Man,Douglas,2026-03-17,9.9,8.4,2.8,42.7,21837.95
+Isle of Man,Douglas,2026-03-18,13.4,7.6,0.0,23.6,32594.79
+Isle of Man,Douglas,2026-03-19,13.3,6.8,0.0,16.4,39902.16
+Isle of Man,Douglas,2026-03-20,10.9,4.8,0.0,8.8,39600.0
+Isle of Man,Douglas,2026-03-21,12.2,3.9,0.0,9.0,41208.27
+Isle of Man,Douglas,2026-03-22,10.8,4.0,0.0,17.8,19262.1
+Isle of Man,Douglas,2026-03-23,9.0,3.0,0.2,30.4,2567.33
+Isle of Man,Douglas,2026-03-24,10.1,4.4,35.4,34.9,821.98
+Isle of Man,Douglas,2026-03-25,6.1,3.0,2.0,42.0,42470.51
+Isle of Man,Douglas,2026-03-26,8.0,1.1,2.7,23.6,11463.51
+Isle of Man,Douglas,2026-03-27,9.7,4.4,9.7,27.4,41172.96
+Isle of Man,Douglas,2026-03-28,7.2,3.4,1.8,36.8,43140.99
+Isle of Man,Douglas,2026-03-29,11.6,5.2,5.8,42.7,21746.76
+Isle of Man,Douglas,2026-03-30,9.7,6.2,1.4,34.8,25587.6
+Svalbard and Jan Mayen,Longyearbyen,2026-03-01,-2.8,-4.1,2.4,14.2,0.0
+Svalbard and Jan Mayen,Longyearbyen,2026-03-02,-2.2,-2.9,0.5,19.6,0.0
+Svalbard and Jan Mayen,Longyearbyen,2026-03-03,-2.2,-3.8,0.0,17.8,0.0
+Svalbard and Jan Mayen,Longyearbyen,2026-03-04,-3.8,-8.4,0.0,10.4,121.69
+Svalbard and Jan Mayen,Longyearbyen,2026-03-05,-5.4,-9.3,0.0,25.3,5013.75
+Svalbard and Jan Mayen,Longyearbyen,2026-03-06,-6.1,-7.7,1.7,26.4,0.0
+Svalbard and Jan Mayen,Longyearbyen,2026-03-07,-5.2,-7.5,1.2,23.2,3647.25
+Svalbard and Jan Mayen,Longyearbyen,2026-03-08,-3.4,-6.0,1.2,23.3,0.0
+Svalbard and Jan Mayen,Longyearbyen,2026-03-09,-2.2,-11.5,3.7,10.4,0.0
+Svalbard and Jan Mayen,Longyearbyen,2026-03-10,-3.9,-12.7,0.0,12.0,0.0
+Svalbard and Jan Mayen,Longyearbyen,2026-03-11,-6.7,-12.4,0.0,14.5,10718.5
+Svalbard and Jan Mayen,Longyearbyen,2026-03-12,-8.7,-10.6,0.0,24.3,0.0
+Svalbard and Jan Mayen,Longyearbyen,2026-03-13,-9.0,-12.6,0.0,22.0,0.0
+Svalbard and Jan Mayen,Longyearbyen,2026-03-14,-10.6,-13.3,0.0,16.6,0.0
+Svalbard and Jan Mayen,Longyearbyen,2026-03-15,-9.9,-15.2,0.0,13.7,262.2
+Svalbard and Jan Mayen,Longyearbyen,2026-03-16,-14.0,-18.2,0.0,13.2,36054.79
+Svalbard and Jan Mayen,Longyearbyen,2026-03-17,-2.7,-13.7,0.0,16.6,19.37
+Svalbard and Jan Mayen,Longyearbyen,2026-03-18,-1.9,-3.9,3.1,18.9,0.0
+Svalbard and Jan Mayen,Longyearbyen,2026-03-19,-2.0,-6.5,2.2,13.8,496.93
+Svalbard and Jan Mayen,Longyearbyen,2026-03-20,-3.1,-6.2,2.6,18.3,0.0
+Svalbard and Jan Mayen,Longyearbyen,2026-03-21,-2.7,-12.5,0.1,9.9,25730.01
+Svalbard and Jan Mayen,Longyearbyen,2026-03-22,-7.4,-11.3,0.0,6.8,30769.5
+Svalbard and Jan Mayen,Longyearbyen,2026-03-23,-7.8,-12.9,0.0,8.9,23276.3
+Svalbard and Jan Mayen,Longyearbyen,2026-03-24,-5.7,-15.4,0.0,10.1,25154.14
+Svalbard and Jan Mayen,Longyearbyen,2026-03-25,-11.0,-18.6,0.0,8.0,41770.33
+Svalbard and Jan Mayen,Longyearbyen,2026-03-26,-11.7,-17.9,0.0,7.0,44101.0
+Svalbard and Jan Mayen,Longyearbyen,2026-03-27,-12.8,-18.9,0.0,8.2,47452.45
+Svalbard and Jan Mayen,Longyearbyen,2026-03-28,-9.8,-19.2,0.1,9.7,41150.47
+Svalbard and Jan Mayen,Longyearbyen,2026-03-29,-10.5,-19.5,0.2,10.6,49122.91
+Svalbard and Jan Mayen,Longyearbyen,2026-03-30,-12.7,-21.2,0.0,11.5,49992.12
+Denmark,Copenhagen,2026-03-01,7.4,3.7,0.2,28.5,30790.27
+Denmark,Copenhagen,2026-03-02,9.1,4.8,0.0,15.5,15723.38
+Denmark,Copenhagen,2026-03-03,11.9,3.5,0.0,18.0,36558.58
+Denmark,Copenhagen,2026-03-04,7.6,2.3,0.0,21.0,38661.12
+Denmark,Copenhagen,2026-03-05,3.8,-0.7,0.0,10.5,35200.5
+Denmark,Copenhagen,2026-03-06,5.6,1.6,0.0,14.8,36633.54
+Denmark,Copenhagen,2026-03-07,5.7,1.5,0.0,9.7,28839.14
+Denmark,Copenhagen,2026-03-08,7.1,3.8,0.0,13.4,21598.7
+Denmark,Copenhagen,2026-03-09,6.9,3.5,0.0,14.3,36773.23
+Denmark,Copenhagen,2026-03-10,9.2,1.9,0.0,12.7,39408.32
+Denmark,Copenhagen,2026-03-11,9.1,3.6,3.2,23.1,18284.22
+Denmark,Copenhagen,2026-03-12,8.7,3.8,0.0,30.4,36658.52
+Denmark,Copenhagen,2026-03-13,8.4,3.7,4.4,36.4,15915.11
+Denmark,Copenhagen,2026-03-14,5.2,2.0,5.7,13.2,3819.84
+Denmark,Copenhagen,2026-03-15,7.1,3.2,0.7,23.6,31807.76
+Denmark,Copenhagen,2026-03-16,4.6,2.7,3.0,26.8,16587.84
+Denmark,Copenhagen,2026-03-17,5.1,0.1,0.0,20.7,39103.18
+Denmark,Copenhagen,2026-03-18,6.1,3.0,0.0,18.8,40530.19
+Denmark,Copenhagen,2026-03-19,10.8,3.4,0.3,12.7,17402.3
+Denmark,Copenhagen,2026-03-20,7.8,1.8,0.0,12.2,16600.16
+Denmark,Copenhagen,2026-03-21,4.8,1.1,0.0,14.6,31131.22
+Denmark,Copenhagen,2026-03-22,6.3,1.7,0.0,12.2,42437.5
+Denmark,Copenhagen,2026-03-23,9.2,2.3,0.0,11.2,33166.79
+Denmark,Copenhagen,2026-03-24,10.6,4.2,1.4,28.8,12337.03
+Denmark,Copenhagen,2026-03-25,9.6,3.5,14.0,36.1,19364.84
+Denmark,Copenhagen,2026-03-26,7.0,2.3,0.1,34.5,30256.7
+Denmark,Copenhagen,2026-03-27,7.4,1.2,0.0,19.7,41589.49
+Denmark,Copenhagen,2026-03-28,6.2,3.6,3.2,24.8,0.0
+Denmark,Copenhagen,2026-03-29,8.1,1.4,0.9,29.3,38900.3
+Denmark,Copenhagen,2026-03-30,7.9,3.1,4.2,33.0,32181.53
+Kosovo,Pristina,2026-03-01,13.5,-0.9,0.0,7.3,38676.5
+Kosovo,Pristina,2026-03-02,14.2,0.9,0.0,8.0,35806.19
+Kosovo,Pristina,2026-03-03,13.6,1.6,0.0,10.8,36178.84
+Kosovo,Pristina,2026-03-04,13.8,0.6,0.0,8.2,35879.96
+Kosovo,Pristina,2026-03-05,10.9,2.3,3.5,11.5,37670.18
+Kosovo,Pristina,2026-03-06,13.6,-0.5,0.0,10.4,39292.78
+Kosovo,Pristina,2026-03-07,14.4,-0.3,0.0,9.7,39356.25
+Kosovo,Pristina,2026-03-08,13.9,0.9,0.0,15.1,39337.09
+Kosovo,Pristina,2026-03-09,13.1,0.1,0.0,15.9,39486.52
+Kosovo,Pristina,2026-03-10,13.8,1.8,0.0,14.3,40182.38
+Kosovo,Pristina,2026-03-11,14.4,1.3,0.0,7.3,40515.73
+Kosovo,Pristina,2026-03-12,15.2,0.2,0.0,6.7,40478.29
+Kosovo,Pristina,2026-03-13,15.0,-0.7,0.0,11.1,40754.92
+Kosovo,Pristina,2026-03-14,14.8,0.2,0.0,7.4,41031.36
+Kosovo,Pristina,2026-03-15,14.6,-1.4,0.0,12.4,40994.3
+Kosovo,Pristina,2026-03-16,13.9,-1.6,0.0,9.2,40957.48
+Kosovo,Pristina,2026-03-17,11.9,0.7,2.2,20.6,21032.69
+Kosovo,Pristina,2026-03-18,10.0,3.2,1.3,18.3,19444.93
+Kosovo,Pristina,2026-03-19,10.2,1.4,0.0,23.3,34538.92
+Kosovo,Pristina,2026-03-20,7.6,-1.8,0.0,21.2,30274.07
+Kosovo,Pristina,2026-03-21,10.2,-1.2,0.0,13.8,36626.33
+Kosovo,Pristina,2026-03-22,12.2,-0.6,0.2,12.5,39600.0
+Kosovo,Pristina,2026-03-23,12.7,0.3,0.0,13.2,39190.48
+Kosovo,Pristina,2026-03-24,11.4,1.7,0.0,21.4,33242.88
+Kosovo,Pristina,2026-03-25,14.4,1.5,0.0,9.5,41577.44
+Kosovo,Pristina,2026-03-26,14.4,3.1,2.0,20.2,27910.35
+Kosovo,Pristina,2026-03-27,10.5,0.6,12.5,13.9,29123.81
+Kosovo,Pristina,2026-03-28,4.6,1.1,5.1,12.0,0.0
+Kosovo,Pristina,2026-03-29,9.1,1.4,0.7,14.2,26583.03
+Kosovo,Pristina,2026-03-30,9.6,2.8,0.0,16.8,1304.84
+Portugal,Lisbon,2026-03-01,16.7,7.8,0.0,14.0,37451.75
+Portugal,Lisbon,2026-03-02,15.2,10.4,5.0,17.9,6965.52
+Portugal,Lisbon,2026-03-03,19.2,11.0,0.2,20.0,36093.54
+Portugal,Lisbon,2026-03-04,20.2,11.8,0.0,17.9,39095.54
+Portugal,Lisbon,2026-03-05,14.7,9.2,1.2,28.7,13185.33
+Portugal,Lisbon,2026-03-06,12.1,8.5,0.1,30.9,8896.48
+Portugal,Lisbon,2026-03-07,17.4,9.7,0.0,19.5,39859.5
+Portugal,Lisbon,2026-03-08,15.8,9.6,0.4,17.3,39917.94
+Portugal,Lisbon,2026-03-09,12.4,8.5,0.9,21.8,18165.65
+Portugal,Lisbon,2026-03-10,14.9,8.6,0.7,22.2,32568.35
+Portugal,Lisbon,2026-03-11,18.7,9.1,0.0,14.1,40606.77
+Portugal,Lisbon,2026-03-12,19.8,10.3,0.0,16.1,40870.84
+Portugal,Lisbon,2026-03-13,18.1,9.6,0.0,17.1,36681.77
+Portugal,Lisbon,2026-03-14,14.4,11.9,1.0,23.6,12591.22
+Portugal,Lisbon,2026-03-15,17.5,11.2,0.0,19.6,41662.28
+Portugal,Lisbon,2026-03-16,22.4,11.5,0.0,14.3,41926.05
+Portugal,Lisbon,2026-03-17,21.8,10.1,7.6,21.4,32529.05
+Portugal,Lisbon,2026-03-18,18.1,13.0,11.0,24.5,32896.04
+Portugal,Lisbon,2026-03-19,15.9,12.0,14.1,23.7,3600.0
+Portugal,Lisbon,2026-03-20,16.7,12.0,15.9,25.1,24998.0
+Portugal,Lisbon,2026-03-21,17.7,13.0,2.1,18.7,41774.28
+Portugal,Lisbon,2026-03-22,18.7,11.9,0.3,12.0,41450.43
+Portugal,Lisbon,2026-03-23,21.6,11.2,0.0,12.8,42435.52
+Portugal,Lisbon,2026-03-24,20.2,12.8,0.0,14.7,42493.26
+Portugal,Lisbon,2026-03-25,22.5,12.4,0.0,19.1,42550.87
+Portugal,Lisbon,2026-03-26,21.6,12.8,0.0,19.9,42752.09
+Portugal,Lisbon,2026-03-27,21.0,11.8,0.0,19.0,42763.06
+Portugal,Lisbon,2026-03-28,22.2,12.5,0.0,21.7,43068.02
+Portugal,Lisbon,2026-03-29,20.5,11.8,0.0,20.6,43373.09
+Portugal,Lisbon,2026-03-30,20.5,10.8,0.0,18.3,43383.94
+United Kingdom,London,2026-03-01,12.4,6.8,0.4,19.5,10907.02
+United Kingdom,London,2026-03-02,14.7,8.5,0.0,16.3,37559.1
+United Kingdom,London,2026-03-03,14.1,5.4,0.0,10.4,36365.62
+United Kingdom,London,2026-03-04,13.4,4.8,0.0,10.3,27903.0
+United Kingdom,London,2026-03-05,16.9,6.2,0.0,10.4,38507.44
+United Kingdom,London,2026-03-06,11.4,7.7,4.6,9.6,14400.0
+United Kingdom,London,2026-03-07,10.0,7.1,0.0,8.8,0.0
+United Kingdom,London,2026-03-08,12.6,7.2,0.0,9.1,17739.4
+United Kingdom,London,2026-03-09,14.9,6.8,2.5,9.3,23884.18
+United Kingdom,London,2026-03-10,12.4,8.8,0.1,20.1,21960.98
+United Kingdom,London,2026-03-11,12.2,6.9,1.6,22.8,35689.83
+United Kingdom,London,2026-03-12,11.6,6.4,0.6,32.2,12513.94
+United Kingdom,London,2026-03-13,11.1,3.6,6.4,29.5,10069.34
+United Kingdom,London,2026-03-14,10.5,1.6,0.2,12.2,39782.27
+United Kingdom,London,2026-03-15,11.6,2.5,2.3,26.8,21600.0
+United Kingdom,London,2026-03-16,11.9,5.3,0.0,21.2,19219.0
+United Kingdom,London,2026-03-17,13.9,8.9,0.0,19.8,33139.76
+United Kingdom,London,2026-03-18,17.2,7.3,0.0,12.7,42444.26
+United Kingdom,London,2026-03-19,15.5,4.4,0.0,11.3,42581.09
+United Kingdom,London,2026-03-20,13.1,2.8,0.0,9.0,40567.34
+United Kingdom,London,2026-03-21,12.3,2.1,0.0,6.9,42409.44
+United Kingdom,London,2026-03-22,11.6,1.0,0.0,6.0,20002.31
+United Kingdom,London,2026-03-23,14.6,3.7,0.0,12.2,34275.14
+United Kingdom,London,2026-03-24,13.4,8.6,2.0,28.4,12074.27
+United Kingdom,London,2026-03-25,8.9,4.1,1.2,24.5,39600.0
+United Kingdom,London,2026-03-26,9.6,2.1,0.0,13.1,43200.0
+United Kingdom,London,2026-03-27,11.9,5.6,0.8,16.9,3600.0
+United Kingdom,London,2026-03-28,10.4,4.0,0.1,19.7,43200.0
+United Kingdom,London,2026-03-29,10.4,2.4,0.4,21.2,21600.0
+United Kingdom,London,2026-03-30,11.3,6.6,0.1,23.8,35817.5
+Jersey,Saint Helier,2026-03-01,12.3,8.6,5.5,36.6,14068.4
+Jersey,Saint Helier,2026-03-02,14.1,8.6,0.0,31.8,38874.74
+Jersey,Saint Helier,2026-03-03,15.9,7.8,0.0,23.7,37768.99
+Jersey,Saint Helier,2026-03-04,15.1,8.0,0.0,19.3,39066.71
+Jersey,Saint Helier,2026-03-05,14.5,9.7,0.0,22.3,36580.62
+Jersey,Saint Helier,2026-03-06,10.9,9.2,2.7,20.7,0.0
+Jersey,Saint Helier,2026-03-07,11.9,8.7,0.7,19.1,10878.5
+Jersey,Saint Helier,2026-03-08,12.1,8.4,7.2,13.2,32452.35
+Jersey,Saint Helier,2026-03-09,12.1,7.5,0.0,13.7,23177.6
+Jersey,Saint Helier,2026-03-10,11.6,7.6,1.9,34.1,15708.36
+Jersey,Saint Helier,2026-03-11,11.3,9.5,4.9,39.4,39600.0
+Jersey,Saint Helier,2026-03-12,13.2,8.7,1.3,46.6,32180.23
+Jersey,Saint Helier,2026-03-13,11.9,5.7,13.0,46.7,0.0
+Jersey,Saint Helier,2026-03-14,10.0,5.5,1.1,22.0,39600.0
+Jersey,Saint Helier,2026-03-15,11.9,6.5,0.6,36.5,20786.1
+Jersey,Saint Helier,2026-03-16,11.7,9.8,1.1,31.0,20672.52
+Jersey,Saint Helier,2026-03-17,14.5,9.2,0.0,28.6,40605.5
+Jersey,Saint Helier,2026-03-18,17.9,10.4,0.0,30.4,41597.73
+Jersey,Saint Helier,2026-03-19,14.1,8.3,0.0,27.2,42075.11
+Jersey,Saint Helier,2026-03-20,14.5,8.3,0.0,21.2,39600.0
+Jersey,Saint Helier,2026-03-21,12.7,8.5,0.0,18.6,39600.0
+Jersey,Saint Helier,2026-03-22,11.6,6.9,0.0,18.2,41148.02
+Jersey,Saint Helier,2026-03-23,12.3,5.9,0.0,9.7,38723.84
+Jersey,Saint Helier,2026-03-24,12.7,8.8,0.9,45.9,28344.34
+Jersey,Saint Helier,2026-03-25,10.5,7.3,0.6,51.6,42830.99
+Jersey,Saint Helier,2026-03-26,9.5,7.9,1.6,35.0,35757.72
+Jersey,Saint Helier,2026-03-27,11.1,8.9,2.7,28.7,3684.52
+Jersey,Saint Helier,2026-03-28,9.9,8.1,0.7,34.0,43200.0
+Jersey,Saint Helier,2026-03-29,10.8,8.1,1.3,39.4,25315.51
+Jersey,Saint Helier,2026-03-30,11.9,10.1,0.1,37.0,43662.75
+Lithuania,Vilnius,2026-03-01,6.8,0.4,0.0,18.4,32070.39
+Lithuania,Vilnius,2026-03-02,2.9,-2.0,0.1,22.1,26800.08
+Lithuania,Vilnius,2026-03-03,1.7,-2.0,0.0,14.7,12312.37
+Lithuania,Vilnius,2026-03-04,3.4,-1.6,0.0,17.3,38860.44
+Lithuania,Vilnius,2026-03-05,4.3,-2.1,0.0,15.6,39125.16
+Lithuania,Vilnius,2026-03-06,4.1,-4.9,0.0,8.6,39391.21
+Lithuania,Vilnius,2026-03-07,8.3,-3.3,0.0,7.7,36000.0
+Lithuania,Vilnius,2026-03-08,11.4,-3.5,0.0,7.4,39600.0
+Lithuania,Vilnius,2026-03-09,13.2,-2.0,0.0,12.7,39600.0
+Lithuania,Vilnius,2026-03-10,13.8,0.3,0.0,16.2,39600.0
+Lithuania,Vilnius,2026-03-11,13.8,1.5,0.0,14.7,39600.0
+Lithuania,Vilnius,2026-03-12,16.2,1.6,0.0,15.7,39564.74
+Lithuania,Vilnius,2026-03-13,16.3,0.2,0.0,20.5,39600.0
+Lithuania,Vilnius,2026-03-14,14.7,4.5,0.0,22.9,39600.0
+Lithuania,Vilnius,2026-03-15,13.7,2.9,0.0,23.5,39600.0
+Lithuania,Vilnius,2026-03-16,12.6,2.7,0.0,18.6,39702.01
+Lithuania,Vilnius,2026-03-17,12.6,1.1,0.4,13.6,35911.71
+Lithuania,Vilnius,2026-03-18,10.6,-1.0,0.0,6.3,28800.0
+Lithuania,Vilnius,2026-03-19,10.4,-1.2,0.0,8.6,39600.0
+Lithuania,Vilnius,2026-03-20,6.8,0.1,1.5,16.6,4992.4
+Lithuania,Vilnius,2026-03-21,10.6,1.0,0.0,12.2,37942.92
+Lithuania,Vilnius,2026-03-22,13.1,-1.5,0.0,7.8,41127.18
+Lithuania,Vilnius,2026-03-23,13.0,0.9,0.0,9.2,34133.43
+Lithuania,Vilnius,2026-03-24,13.1,1.2,0.0,15.2,35937.29
+Lithuania,Vilnius,2026-03-25,15.0,4.1,0.0,25.6,37043.42
+Lithuania,Vilnius,2026-03-26,9.9,2.8,1.4,13.4,0.0
+Lithuania,Vilnius,2026-03-27,11.9,2.3,0.0,12.5,37579.76
+Lithuania,Vilnius,2026-03-28,15.0,-0.8,0.0,8.1,44329.75
+Lithuania,Vilnius,2026-03-29,16.6,1.1,0.0,12.0,36732.89
+Lithuania,Vilnius,2026-03-30,14.3,1.5,1.3,10.3,27333.96
+Liechtenstein,Vaduz,2026-03-01,8.3,0.3,1.2,3.3,14420.32
+Liechtenstein,Vaduz,2026-03-02,12.9,0.2,0.0,4.8,39290.25
+Liechtenstein,Vaduz,2026-03-03,12.8,0.7,0.0,7.1,39401.05
+Liechtenstein,Vaduz,2026-03-04,13.1,0.2,0.0,5.5,39512.95
+Liechtenstein,Vaduz,2026-03-05,16.3,0.5,0.0,6.0,39600.0
+Liechtenstein,Vaduz,2026-03-06,18.6,2.7,0.0,6.4,39600.0
+Liechtenstein,Vaduz,2026-03-07,18.2,3.3,0.0,7.6,39600.0
+Liechtenstein,Vaduz,2026-03-08,16.7,3.7,0.0,7.9,39600.0
+Liechtenstein,Vaduz,2026-03-09,16.7,4.2,0.0,8.1,39600.0
+Liechtenstein,Vaduz,2026-03-10,17.7,4.6,0.0,7.9,39600.0
+Liechtenstein,Vaduz,2026-03-11,15.8,4.3,1.6,5.4,30649.69
+Liechtenstein,Vaduz,2026-03-12,11.5,2.8,7.0,3.4,21761.77
+Liechtenstein,Vaduz,2026-03-13,18.0,1.6,0.0,8.9,39600.0
+Liechtenstein,Vaduz,2026-03-14,11.8,1.8,17.0,9.5,6403.73
+Liechtenstein,Vaduz,2026-03-15,4.9,1.3,5.5,5.3,28255.6
+Liechtenstein,Vaduz,2026-03-16,10.2,-0.7,5.1,4.3,30305.52
+Liechtenstein,Vaduz,2026-03-17,10.7,0.1,0.5,5.1,32400.0
+Liechtenstein,Vaduz,2026-03-18,12.1,2.6,0.0,9.0,40149.95
+Liechtenstein,Vaduz,2026-03-19,12.8,2.1,0.0,7.6,40952.21
+Liechtenstein,Vaduz,2026-03-20,12.5,-0.5,0.0,7.3,40174.91
+Liechtenstein,Vaduz,2026-03-21,11.4,0.7,0.1,6.4,28007.67
+Liechtenstein,Vaduz,2026-03-22,13.9,2.9,0.3,6.6,40984.16
+Liechtenstein,Vaduz,2026-03-23,10.4,2.0,2.4,3.8,30115.94
+Liechtenstein,Vaduz,2026-03-24,14.3,2.0,0.0,5.9,41120.7
+Liechtenstein,Vaduz,2026-03-25,16.8,1.9,11.3,11.0,31193.99
+Liechtenstein,Vaduz,2026-03-26,2.6,-1.4,26.8,7.3,4743.51
+Liechtenstein,Vaduz,2026-03-27,2.6,-3.6,2.2,8.8,3042.15
+Liechtenstein,Vaduz,2026-03-28,6.8,-7.4,4.2,4.0,37879.76
+Liechtenstein,Vaduz,2026-03-29,4.0,0.2,5.5,7.3,1601.32
+Liechtenstein,Vaduz,2026-03-30,5.7,-0.6,14.4,4.8,0.0
+Bosnia and Herzegovina,Sarajevo,2026-03-01,16.0,2.4,0.0,6.7,37727.07
+Bosnia and Herzegovina,Sarajevo,2026-03-02,12.8,1.6,0.0,9.1,34158.23
+Bosnia and Herzegovina,Sarajevo,2026-03-03,13.6,2.6,0.0,7.3,34598.5
+Bosnia and Herzegovina,Sarajevo,2026-03-04,14.4,2.0,0.1,6.8,26687.07
+Bosnia and Herzegovina,Sarajevo,2026-03-05,12.8,1.7,0.8,9.4,37673.08
+Bosnia and Herzegovina,Sarajevo,2026-03-06,15.3,-0.2,0.0,9.3,40243.4
+Bosnia and Herzegovina,Sarajevo,2026-03-07,14.7,1.2,0.0,7.9,39337.84
+Bosnia and Herzegovina,Sarajevo,2026-03-08,14.3,1.9,0.3,7.4,38355.12
+Bosnia and Herzegovina,Sarajevo,2026-03-09,14.6,0.8,0.2,9.9,40757.46
+Bosnia and Herzegovina,Sarajevo,2026-03-10,14.5,1.9,0.6,11.0,39257.47
+Bosnia and Herzegovina,Sarajevo,2026-03-11,15.0,2.5,0.0,7.3,41519.89
+Bosnia and Herzegovina,Sarajevo,2026-03-12,13.6,3.0,0.6,10.3,30279.3
+Bosnia and Herzegovina,Sarajevo,2026-03-13,16.1,1.6,1.2,11.0,39743.64
+Bosnia and Herzegovina,Sarajevo,2026-03-14,15.2,3.6,0.0,11.0,42072.45
+Bosnia and Herzegovina,Sarajevo,2026-03-15,15.5,2.6,0.6,10.7,42256.65
+Bosnia and Herzegovina,Sarajevo,2026-03-16,14.3,1.7,0.0,12.1,42196.08
+Bosnia and Herzegovina,Sarajevo,2026-03-17,6.1,1.3,12.1,12.6,0.0
+Bosnia and Herzegovina,Sarajevo,2026-03-18,6.5,1.4,5.9,20.6,21731.95
+Bosnia and Herzegovina,Sarajevo,2026-03-19,8.7,-0.4,0.0,20.1,20175.21
+Bosnia and Herzegovina,Sarajevo,2026-03-20,7.6,0.3,0.2,15.9,15488.06
+Bosnia and Herzegovina,Sarajevo,2026-03-21,8.5,-0.8,0.0,14.3,19102.71
+Bosnia and Herzegovina,Sarajevo,2026-03-22,12.2,-0.2,0.0,7.7,29564.36
+Bosnia and Herzegovina,Sarajevo,2026-03-23,11.4,0.9,10.5,8.0,33639.51
+Bosnia and Herzegovina,Sarajevo,2026-03-24,11.9,0.9,0.9,15.7,36614.55
+Bosnia and Herzegovina,Sarajevo,2026-03-25,13.9,0.8,0.0,9.3,43198.14
+Bosnia and Herzegovina,Sarajevo,2026-03-26,11.5,1.5,33.0,23.6,20406.28
+Bosnia and Herzegovina,Sarajevo,2026-03-27,2.5,0.2,20.3,9.8,670.97
+Bosnia and Herzegovina,Sarajevo,2026-03-28,1.6,-0.0,16.0,14.2,0.0
+Bosnia and Herzegovina,Sarajevo,2026-03-29,3.6,0.9,10.2,13.2,0.0
+Bosnia and Herzegovina,Sarajevo,2026-03-30,4.6,1.1,0.5,6.6,958.04
+Ukraine,Kyiv,2026-03-01,4.6,-3.2,0.0,14.0,37202.71
+Ukraine,Kyiv,2026-03-02,5.8,0.5,0.0,15.1,29080.62
+Ukraine,Kyiv,2026-03-03,2.9,0.2,0.0,14.1,2065.05
+Ukraine,Kyiv,2026-03-04,7.2,-3.2,0.0,17.1,37407.73
+Ukraine,Kyiv,2026-03-05,6.6,-0.9,0.0,18.0,37352.91
+Ukraine,Kyiv,2026-03-06,4.2,-0.8,0.0,16.9,27351.17
+Ukraine,Kyiv,2026-03-07,8.5,-1.8,0.0,11.2,38651.6
+Ukraine,Kyiv,2026-03-08,8.4,-0.6,0.0,8.6,39030.19
+Ukraine,Kyiv,2026-03-09,11.9,0.3,0.0,11.9,39428.27
+Ukraine,Kyiv,2026-03-10,13.3,0.8,0.0,15.0,39824.98
+Ukraine,Kyiv,2026-03-11,14.8,3.2,0.0,14.9,40220.48
+Ukraine,Kyiv,2026-03-12,13.9,2.5,0.0,13.4,40251.5
+Ukraine,Kyiv,2026-03-13,15.2,1.8,0.0,14.0,39919.15
+Ukraine,Kyiv,2026-03-14,10.0,1.6,0.0,16.6,41401.13
+Ukraine,Kyiv,2026-03-15,11.4,0.9,0.0,13.1,42005.71
+Ukraine,Kyiv,2026-03-16,11.4,0.8,0.0,9.4,42237.26
+Ukraine,Kyiv,2026-03-17,8.4,-0.3,0.0,9.6,39454.95
+Ukraine,Kyiv,2026-03-18,5.2,1.7,0.5,14.6,0.0
+Ukraine,Kyiv,2026-03-19,8.1,1.8,0.0,11.2,3294.11
+Ukraine,Kyiv,2026-03-20,10.9,1.0,0.0,12.0,42821.99
+Ukraine,Kyiv,2026-03-21,10.7,0.4,0.0,13.5,32533.75
+Ukraine,Kyiv,2026-03-22,11.9,0.4,0.0,11.2,43083.85
+Ukraine,Kyiv,2026-03-23,10.9,0.3,0.0,7.4,40486.95
+Ukraine,Kyiv,2026-03-24,12.8,0.3,0.0,9.1,43200.0
+Ukraine,Kyiv,2026-03-25,14.2,3.2,0.0,13.6,35448.47
+Ukraine,Kyiv,2026-03-26,13.6,4.8,0.1,14.7,29524.71
+Ukraine,Kyiv,2026-03-27,17.0,7.1,0.0,10.3,42810.64
+Ukraine,Kyiv,2026-03-28,14.8,5.2,0.3,14.9,25232.67
+Ukraine,Kyiv,2026-03-29,14.3,7.8,0.0,13.0,4341.97
+Ukraine,Kyiv,2026-03-30,11.1,5.2,1.5,12.7,14729.2
+France,Paris,2026-03-01,12.5,4.3,0.0,18.6,29335.02
+France,Paris,2026-03-02,16.5,5.7,0.0,10.8,36514.43
+France,Paris,2026-03-03,17.0,4.9,0.0,6.8,36464.61
+France,Paris,2026-03-04,17.8,5.8,0.0,11.0,37360.8
+France,Paris,2026-03-05,17.2,5.8,0.0,8.0,37007.16
+France,Paris,2026-03-06,17.4,7.4,0.0,5.8,28800.0
+France,Paris,2026-03-07,17.6,8.0,0.0,8.7,38087.12
+France,Paris,2026-03-08,16.4,6.8,0.0,5.2,28546.02
+France,Paris,2026-03-09,17.0,6.8,0.4,9.9,38565.4
+France,Paris,2026-03-10,15.4,9.0,5.1,11.8,29716.68
+France,Paris,2026-03-11,12.8,6.5,10.6,23.0,20063.53
+France,Paris,2026-03-12,12.6,4.2,0.0,21.8,27620.31
+France,Paris,2026-03-13,11.7,5.4,19.2,24.1,0.0
+France,Paris,2026-03-14,9.1,2.3,4.3,14.4,39595.89
+France,Paris,2026-03-15,12.2,1.0,0.0,16.5,42087.2
+France,Paris,2026-03-16,11.8,7.1,0.0,17.0,10937.34
+France,Paris,2026-03-17,15.9,5.6,0.0,10.5,42504.17
+France,Paris,2026-03-18,14.9,7.2,0.0,19.0,42743.37
+France,Paris,2026-03-19,16.2,5.8,0.0,13.0,42960.93
+France,Paris,2026-03-20,16.4,4.0,0.0,10.4,40744.68
+France,Paris,2026-03-21,16.2,5.9,0.0,11.0,43197.75
+France,Paris,2026-03-22,14.8,4.5,0.0,12.0,40536.32
+France,Paris,2026-03-23,15.8,4.6,0.0,8.5,43200.0
+France,Paris,2026-03-24,17.1,5.2,0.0,20.4,37040.21
+France,Paris,2026-03-25,10.1,3.3,6.4,28.7,36000.0
+France,Paris,2026-03-26,9.2,2.3,0.3,16.8,43200.0
+France,Paris,2026-03-27,10.3,0.3,0.8,9.7,21033.85
+France,Paris,2026-03-28,10.4,4.0,8.9,19.6,39600.0
+France,Paris,2026-03-29,11.0,2.2,0.0,15.5,26419.63
+France,Paris,2026-03-30,12.3,6.3,0.2,22.9,34444.37
+Estonia,Tallinn,2026-03-01,3.9,1.2,2.7,18.8,5189.52
+Estonia,Tallinn,2026-03-02,1.3,-0.3,1.3,17.5,0.0
+Estonia,Tallinn,2026-03-03,3.0,-1.0,0.7,24.8,0.0
+Estonia,Tallinn,2026-03-04,2.9,0.1,0.0,22.8,29839.72
+Estonia,Tallinn,2026-03-05,3.8,-1.2,0.0,15.7,38313.38
+Estonia,Tallinn,2026-03-06,7.7,-4.6,0.0,16.7,38633.49
+Estonia,Tallinn,2026-03-07,6.7,-3.8,0.0,10.8,33782.62
+Estonia,Tallinn,2026-03-08,8.1,-4.6,0.0,12.2,37576.49
+Estonia,Tallinn,2026-03-09,7.6,0.2,2.8,21.1,32336.65
+Estonia,Tallinn,2026-03-10,11.6,-0.3,0.0,16.5,39600.0
+Estonia,Tallinn,2026-03-11,10.9,0.9,0.1,20.2,39600.0
+Estonia,Tallinn,2026-03-12,8.7,1.9,1.1,23.9,7929.63
+Estonia,Tallinn,2026-03-13,9.9,0.9,0.0,26.7,39600.0
+Estonia,Tallinn,2026-03-14,14.4,5.6,0.0,22.2,39600.0
+Estonia,Tallinn,2026-03-15,11.7,2.3,1.4,23.1,38623.16
+Estonia,Tallinn,2026-03-16,6.0,1.5,0.9,9.9,13573.88
+Estonia,Tallinn,2026-03-17,8.9,-0.2,0.0,11.9,21600.0
+Estonia,Tallinn,2026-03-18,5.2,-0.4,0.0,18.3,22956.46
+Estonia,Tallinn,2026-03-19,4.8,0.6,0.0,16.6,0.0
+Estonia,Tallinn,2026-03-20,7.7,-0.9,0.0,9.8,40077.25
+Estonia,Tallinn,2026-03-21,10.1,-1.5,0.0,18.2,40818.46
+Estonia,Tallinn,2026-03-22,11.1,1.0,0.0,20.9,41110.15
+Estonia,Tallinn,2026-03-23,10.9,1.0,0.0,22.5,40952.74
+Estonia,Tallinn,2026-03-24,9.8,-0.3,0.0,24.6,41937.81
+Estonia,Tallinn,2026-03-25,11.8,4.8,0.7,27.6,14392.66
+Estonia,Tallinn,2026-03-26,9.4,3.0,0.0,27.7,35955.84
+Estonia,Tallinn,2026-03-27,11.1,0.9,0.0,17.8,45364.74
+Estonia,Tallinn,2026-03-28,9.0,-1.0,0.0,16.0,45687.33
+Estonia,Tallinn,2026-03-29,7.8,-1.6,0.0,17.1,25938.07
+Estonia,Tallinn,2026-03-30,8.2,-1.5,0.0,12.4,36216.28
+Croatia,Zagreb,2026-03-01,16.2,3.8,0.0,7.5,36000.0
+Croatia,Zagreb,2026-03-02,13.2,7.3,1.0,6.3,15598.6
+Croatia,Zagreb,2026-03-03,15.3,4.7,0.0,5.2,37489.54
+Croatia,Zagreb,2026-03-04,16.0,4.9,0.3,9.5,36000.0
+Croatia,Zagreb,2026-03-05,15.6,3.8,0.0,9.5,38404.46
+Croatia,Zagreb,2026-03-06,16.3,4.5,0.0,11.6,39105.48
+Croatia,Zagreb,2026-03-07,16.1,4.9,0.0,9.1,39131.29
+Croatia,Zagreb,2026-03-08,16.6,4.5,0.0,10.1,39156.44
+Croatia,Zagreb,2026-03-09,15.6,5.7,0.0,9.7,39181.03
+Croatia,Zagreb,2026-03-10,16.1,4.8,0.0,12.0,38986.26
+Croatia,Zagreb,2026-03-11,15.8,5.3,0.0,17.3,38953.3
+Croatia,Zagreb,2026-03-12,15.9,7.1,2.5,10.8,34233.48
+Croatia,Zagreb,2026-03-13,15.6,6.8,0.1,6.2,35961.72
+Croatia,Zagreb,2026-03-14,16.6,4.8,1.0,12.6,38304.22
+Croatia,Zagreb,2026-03-15,16.4,5.9,0.0,14.8,41969.48
+Croatia,Zagreb,2026-03-16,15.8,4.6,3.9,21.1,40335.17
+Croatia,Zagreb,2026-03-17,9.9,5.5,6.3,20.8,27969.96
+Croatia,Zagreb,2026-03-18,12.2,5.0,4.0,26.5,18519.52
+Croatia,Zagreb,2026-03-19,12.7,5.2,0.0,20.3,41463.26
+Croatia,Zagreb,2026-03-20,12.2,4.7,0.0,17.4,23729.7
+Croatia,Zagreb,2026-03-21,12.2,5.7,0.3,16.8,27744.31
+Croatia,Zagreb,2026-03-22,12.9,6.1,1.2,15.7,35183.89
+Croatia,Zagreb,2026-03-23,13.7,5.8,2.8,11.7,36290.91
+Croatia,Zagreb,2026-03-24,16.6,4.9,0.0,10.1,39600.0
+Croatia,Zagreb,2026-03-25,17.9,5.1,0.1,19.4,43200.0
+Croatia,Zagreb,2026-03-26,8.4,2.7,28.2,41.7,167.22
+Croatia,Zagreb,2026-03-27,6.4,2.0,21.1,46.3,0.0
+Croatia,Zagreb,2026-03-28,11.6,4.7,0.1,30.9,31528.88
+Croatia,Zagreb,2026-03-29,11.9,5.8,1.9,26.1,16233.13
+Croatia,Zagreb,2026-03-30,6.7,3.7,1.9,9.0,0.0
+Norway,Oslo,2026-03-01,4.8,-2.1,1.1,13.4,16297.41
+Norway,Oslo,2026-03-02,2.8,-3.8,1.7,16.9,0.0
+Norway,Oslo,2026-03-03,8.8,2.3,0.1,19.5,35056.94
+Norway,Oslo,2026-03-04,8.2,1.2,0.0,14.2,13901.94
+Norway,Oslo,2026-03-05,6.8,-1.8,0.0,9.4,35242.92
+Norway,Oslo,2026-03-06,6.1,-1.6,0.0,5.9,38312.98
+Norway,Oslo,2026-03-07,7.2,-0.1,2.2,8.7,31414.12
+Norway,Oslo,2026-03-08,7.4,0.2,0.5,14.6,11488.43
+Norway,Oslo,2026-03-09,3.8,0.4,0.0,11.3,26906.08
+Norway,Oslo,2026-03-10,2.4,0.2,0.0,15.3,0.0
+Norway,Oslo,2026-03-11,4.5,2.2,1.9,19.5,0.0
+Norway,Oslo,2026-03-12,5.4,0.2,12.2,38.0,9662.72
+Norway,Oslo,2026-03-13,6.0,2.6,21.0,34.1,14400.0
+Norway,Oslo,2026-03-14,6.0,2.5,0.0,17.7,6301.21
+Norway,Oslo,2026-03-15,6.0,0.9,1.0,24.2,15516.6
+Norway,Oslo,2026-03-16,3.7,1.8,11.0,25.9,0.0
+Norway,Oslo,2026-03-17,4.9,-0.6,0.3,20.1,3674.17
+Norway,Oslo,2026-03-18,6.7,2.8,0.1,22.5,3169.33
+Norway,Oslo,2026-03-19,12.3,1.5,0.0,7.3,32969.62
+Norway,Oslo,2026-03-20,11.1,0.2,0.0,15.1,36177.64
+Norway,Oslo,2026-03-21,8.5,1.0,0.0,12.1,26163.93
+Norway,Oslo,2026-03-22,5.4,1.9,0.0,27.6,27492.69
+Norway,Oslo,2026-03-23,9.1,1.3,0.0,17.6,39519.86
+Norway,Oslo,2026-03-24,10.1,2.1,0.8,27.2,14450.56
+Norway,Oslo,2026-03-25,9.1,1.0,10.7,16.4,18274.62
+Norway,Oslo,2026-03-26,10.9,0.8,0.0,16.4,41423.31
+Norway,Oslo,2026-03-27,7.6,-1.3,3.8,23.0,38063.74
+Norway,Oslo,2026-03-28,8.4,0.8,0.3,14.5,37100.34
+Norway,Oslo,2026-03-29,7.9,-0.9,2.3,23.2,32042.36
+Norway,Oslo,2026-03-30,7.4,1.6,8.6,16.9,21041.94
+North Macedonia,Skopje,2026-03-01,11.6,1.1,0.0,5.1,38770.27
+North Macedonia,Skopje,2026-03-02,12.9,1.9,0.0,4.2,38864.48
+North Macedonia,Skopje,2026-03-03,17.8,3.5,0.0,6.6,36417.12
+North Macedonia,Skopje,2026-03-04,14.8,3.8,0.0,5.9,38176.67
+North Macedonia,Skopje,2026-03-05,12.9,3.3,2.9,7.5,27703.5
+North Macedonia,Skopje,2026-03-06,14.7,2.4,0.0,6.6,39248.22
+North Macedonia,Skopje,2026-03-07,15.1,3.0,0.0,7.9,39485.15
+North Macedonia,Skopje,2026-03-08,15.1,3.8,0.0,9.4,39302.48
+North Macedonia,Skopje,2026-03-09,14.3,5.0,0.3,12.9,26875.41
+North Macedonia,Skopje,2026-03-10,13.9,3.2,0.0,9.5,39940.8
+North Macedonia,Skopje,2026-03-11,14.9,3.2,0.0,6.2,40215.55
+North Macedonia,Skopje,2026-03-12,16.1,3.2,0.0,5.6,40179.49
+North Macedonia,Skopje,2026-03-13,15.6,3.5,0.0,6.2,40453.89
+North Macedonia,Skopje,2026-03-14,15.2,2.8,0.0,9.0,40418.1
+North Macedonia,Skopje,2026-03-15,15.4,3.2,0.0,5.3,40382.52
+North Macedonia,Skopje,2026-03-16,15.4,3.5,0.0,7.9,40656.88
+North Macedonia,Skopje,2026-03-17,14.7,4.6,0.0,16.0,26133.86
+North Macedonia,Skopje,2026-03-18,11.7,6.2,0.2,15.5,16288.93
+North Macedonia,Skopje,2026-03-19,12.8,3.7,0.0,12.4,21824.35
+North Macedonia,Skopje,2026-03-20,10.7,0.6,0.0,10.4,27319.45
+North Macedonia,Skopje,2026-03-21,13.6,1.4,0.0,7.6,28921.32
+North Macedonia,Skopje,2026-03-22,15.3,3.9,0.0,11.6,39600.0
+North Macedonia,Skopje,2026-03-23,14.1,4.4,2.9,12.0,32400.0
+North Macedonia,Skopje,2026-03-24,14.0,3.8,2.5,8.0,24868.96
+North Macedonia,Skopje,2026-03-25,17.8,4.6,0.0,7.2,41894.97
+North Macedonia,Skopje,2026-03-26,18.6,5.3,0.4,20.1,32957.73
+North Macedonia,Skopje,2026-03-27,10.7,3.2,13.2,13.8,25060.47
+North Macedonia,Skopje,2026-03-28,11.6,3.8,2.0,10.9,28622.17
+North Macedonia,Skopje,2026-03-29,12.6,4.7,0.0,12.2,32064.88
+North Macedonia,Skopje,2026-03-30,13.9,6.1,0.0,8.0,29970.76
+Montenegro,Podgorica,2026-03-01,17.0,4.6,0.0,6.8,37235.34
+Montenegro,Podgorica,2026-03-02,16.1,2.7,0.0,7.7,33494.28
+Montenegro,Podgorica,2026-03-03,17.2,5.6,0.0,6.2,37057.66
+Montenegro,Podgorica,2026-03-04,18.5,4.3,0.4,6.4,36964.95
+Montenegro,Podgorica,2026-03-05,16.6,5.6,0.9,11.0,37827.07
+Montenegro,Podgorica,2026-03-06,18.4,3.2,0.0,10.1,39316.18
+Montenegro,Podgorica,2026-03-07,19.1,4.0,0.0,7.7,39640.25
+Montenegro,Podgorica,2026-03-08,18.4,6.1,0.0,6.9,36924.58
+Montenegro,Podgorica,2026-03-09,16.2,4.8,0.0,7.5,39007.62
+Montenegro,Podgorica,2026-03-10,17.6,5.4,0.0,7.3,40773.72
+Montenegro,Podgorica,2026-03-11,18.0,4.4,0.0,7.6,40838.89
+Montenegro,Podgorica,2026-03-12,18.2,3.7,0.0,5.9,39317.64
+Montenegro,Podgorica,2026-03-13,19.7,5.3,0.0,6.7,41284.43
+Montenegro,Podgorica,2026-03-14,17.6,4.6,0.2,10.5,41351.52
+Montenegro,Podgorica,2026-03-15,18.6,3.7,0.0,8.3,41700.26
+Montenegro,Podgorica,2026-03-16,19.6,4.3,0.0,6.7,41663.27
+Montenegro,Podgorica,2026-03-17,13.5,8.4,16.5,10.6,0.0
+Montenegro,Podgorica,2026-03-18,16.8,7.7,1.8,10.6,29893.86
+Montenegro,Podgorica,2026-03-19,17.0,7.9,0.0,19.5,39098.9
+Montenegro,Podgorica,2026-03-20,15.4,5.1,0.0,15.0,41830.62
+Montenegro,Podgorica,2026-03-21,15.8,4.3,0.0,14.5,42418.61
+Montenegro,Podgorica,2026-03-22,16.4,6.5,0.0,10.8,42135.66
+Montenegro,Podgorica,2026-03-23,15.9,6.3,0.0,9.8,35996.57
+Montenegro,Podgorica,2026-03-24,19.3,6.9,0.0,15.0,42894.05
+Montenegro,Podgorica,2026-03-25,18.6,6.6,0.0,11.3,41034.56
+Montenegro,Podgorica,2026-03-26,14.9,7.4,34.5,24.1,18815.83
+Montenegro,Podgorica,2026-03-27,13.0,5.0,3.4,9.3,38587.51
+Montenegro,Podgorica,2026-03-28,14.0,4.9,1.3,13.2,28022.84
+Montenegro,Podgorica,2026-03-29,16.5,6.7,0.1,17.1,32400.0
+Montenegro,Podgorica,2026-03-30,16.9,6.8,0.2,10.3,41637.91
+Belgium,Brussels,2026-03-01,11.9,4.3,0.0,24.7,21895.71
+Belgium,Brussels,2026-03-02,15.8,6.4,0.0,13.5,36604.46
+Belgium,Brussels,2026-03-03,16.4,6.3,0.0,9.8,36539.27
+Belgium,Brussels,2026-03-04,16.4,4.9,0.0,11.3,36884.28
+Belgium,Brussels,2026-03-05,18.2,7.1,0.0,12.5,37521.94
+Belgium,Brussels,2026-03-06,17.5,8.3,0.0,10.9,37453.36
+Belgium,Brussels,2026-03-07,14.4,7.3,0.0,10.1,37264.54
+Belgium,Brussels,2026-03-08,14.5,5.9,0.0,8.6,30471.91
+Belgium,Brussels,2026-03-09,18.1,6.6,0.3,9.4,39193.89
+Belgium,Brussels,2026-03-10,13.1,8.6,3.0,15.6,28160.5
+Belgium,Brussels,2026-03-11,11.8,6.4,4.1,26.2,14274.82
+Belgium,Brussels,2026-03-12,11.9,4.8,0.0,28.8,38565.09
+Belgium,Brussels,2026-03-13,10.7,4.7,10.6,27.8,0.0
+Belgium,Brussels,2026-03-14,8.2,2.6,10.0,14.3,21894.02
+Belgium,Brussels,2026-03-15,10.5,0.8,0.8,26.0,41880.14
+Belgium,Brussels,2026-03-16,11.0,5.2,1.7,21.8,34181.08
+Belgium,Brussels,2026-03-17,15.1,7.9,0.0,16.2,32680.91
+Belgium,Brussels,2026-03-18,14.2,6.7,0.0,16.0,42421.03
+Belgium,Brussels,2026-03-19,15.6,4.6,0.0,11.2,42520.14
+Belgium,Brussels,2026-03-20,13.7,4.7,0.0,11.6,37406.68
+Belgium,Brussels,2026-03-21,13.0,2.8,0.0,13.4,42717.31
+Belgium,Brussels,2026-03-22,14.0,2.8,0.0,10.0,42815.34
+Belgium,Brussels,2026-03-23,14.2,3.8,0.0,8.5,42913.1
+Belgium,Brussels,2026-03-24,15.4,6.9,0.0,26.3,24350.14
+Belgium,Brussels,2026-03-25,11.4,3.1,8.0,28.2,39501.8
+Belgium,Brussels,2026-03-26,6.9,1.4,2.1,17.3,42813.95
+Belgium,Brussels,2026-03-27,9.5,-0.2,0.9,18.8,13228.54
+Belgium,Brussels,2026-03-28,9.4,3.7,5.8,20.3,36000.0
+Belgium,Brussels,2026-03-29,9.9,2.3,1.2,25.2,28504.83
+Belgium,Brussels,2026-03-30,8.6,3.8,3.6,25.6,42057.44
+Vatican City,Vatican City,2026-03-01,15.3,6.8,0.1,10.2,25683.88
+Vatican City,Vatican City,2026-03-02,14.9,9.2,0.3,14.8,19536.35
+Vatican City,Vatican City,2026-03-03,18.5,8.9,0.0,11.1,39488.65
+Vatican City,Vatican City,2026-03-04,15.4,10.2,0.9,9.0,0.0
+Vatican City,Vatican City,2026-03-05,19.6,9.0,0.0,11.0,39600.0
+Vatican City,Vatican City,2026-03-06,17.2,8.2,0.0,11.7,30089.75
+Vatican City,Vatican City,2026-03-07,17.0,9.1,0.6,11.2,23525.91
+Vatican City,Vatican City,2026-03-08,17.8,9.6,1.2,9.3,39600.0
+Vatican City,Vatican City,2026-03-09,15.6,8.2,4.6,9.4,32123.31
+Vatican City,Vatican City,2026-03-10,17.9,7.4,2.0,9.4,39600.0
+Vatican City,Vatican City,2026-03-11,17.2,8.6,3.5,9.5,38231.21
+Vatican City,Vatican City,2026-03-12,16.3,8.6,15.8,16.6,19996.92
+Vatican City,Vatican City,2026-03-13,16.4,7.2,0.0,9.9,39637.22
+Vatican City,Vatican City,2026-03-14,14.7,6.9,2.1,18.5,39600.0
+Vatican City,Vatican City,2026-03-15,18.8,10.6,0.7,15.8,34816.87
+Vatican City,Vatican City,2026-03-16,19.8,10.6,0.5,21.6,40408.95
+Vatican City,Vatican City,2026-03-17,19.1,8.4,0.2,27.3,40665.79
+Vatican City,Vatican City,2026-03-18,14.4,6.9,2.1,27.6,36853.55
+Vatican City,Vatican City,2026-03-19,18.3,7.3,0.0,21.1,33934.52
+Vatican City,Vatican City,2026-03-20,17.2,7.0,0.0,25.4,41436.84
+Vatican City,Vatican City,2026-03-21,15.6,6.6,0.3,13.5,26949.81
+Vatican City,Vatican City,2026-03-22,13.6,7.1,5.8,11.2,29196.33
+Vatican City,Vatican City,2026-03-23,14.9,6.2,0.4,11.1,39739.81
+Vatican City,Vatican City,2026-03-24,18.1,5.2,0.0,18.7,42510.17
+Vatican City,Vatican City,2026-03-25,17.4,6.2,0.5,18.7,42611.68
+Vatican City,Vatican City,2026-03-26,13.1,5.1,5.1,27.1,34675.09
+Vatican City,Vatican City,2026-03-27,11.9,6.5,0.0,31.6,37026.23
+Vatican City,Vatican City,2026-03-28,16.8,7.0,0.0,23.5,42919.11
+Vatican City,Vatican City,2026-03-29,17.2,5.1,0.1,16.1,40981.7
+Vatican City,Vatican City,2026-03-30,16.9,5.8,3.4,13.9,37031.69
+Italy,Rome,2026-03-01,15.3,6.8,0.1,10.2,25683.88
+Italy,Rome,2026-03-02,14.9,9.2,0.3,14.8,19536.35
+Italy,Rome,2026-03-03,18.5,8.9,0.0,11.1,39488.65
+Italy,Rome,2026-03-04,15.4,10.2,0.9,9.0,0.0
+Italy,Rome,2026-03-05,19.6,9.0,0.0,11.0,39600.0
+Italy,Rome,2026-03-06,17.2,8.2,0.0,11.7,30089.75
+Italy,Rome,2026-03-07,17.0,9.1,0.6,11.2,23525.91
+Italy,Rome,2026-03-08,17.8,9.6,1.2,9.3,39600.0
+Italy,Rome,2026-03-09,15.6,8.2,4.6,9.4,32123.31
+Italy,Rome,2026-03-10,17.9,7.4,2.0,9.4,39600.0
+Italy,Rome,2026-03-11,17.2,8.6,3.5,9.5,38231.21
+Italy,Rome,2026-03-12,16.3,8.6,15.8,16.6,19996.92
+Italy,Rome,2026-03-13,16.4,7.2,0.0,9.9,39637.22
+Italy,Rome,2026-03-14,14.7,6.9,2.1,18.5,39600.0
+Italy,Rome,2026-03-15,18.8,10.6,0.7,15.8,34816.87
+Italy,Rome,2026-03-16,19.8,10.6,0.5,21.6,40408.95
+Italy,Rome,2026-03-17,19.1,8.4,0.2,27.3,40665.79
+Italy,Rome,2026-03-18,14.4,6.9,2.1,27.6,36853.55
+Italy,Rome,2026-03-19,18.3,7.3,0.0,21.1,33934.52
+Italy,Rome,2026-03-20,17.2,7.0,0.0,25.4,41436.84
+Italy,Rome,2026-03-21,15.6,6.6,0.3,13.5,26949.81
+Italy,Rome,2026-03-22,13.6,7.1,5.8,11.2,29196.33
+Italy,Rome,2026-03-23,14.9,6.2,0.4,11.1,39739.81
+Italy,Rome,2026-03-24,18.1,5.2,0.0,18.7,42510.17
+Italy,Rome,2026-03-25,17.4,6.2,0.5,18.7,42611.68
+Italy,Rome,2026-03-26,13.1,5.1,5.1,27.1,34675.09
+Italy,Rome,2026-03-27,11.9,6.5,0.0,31.6,37026.23
+Italy,Rome,2026-03-28,16.8,7.0,0.0,23.5,42919.11
+Italy,Rome,2026-03-29,17.2,5.1,0.1,16.1,40981.7
+Italy,Rome,2026-03-30,16.9,5.8,3.4,13.9,37031.69
+Luxembourg,Luxembourg,2026-03-01,11.4,1.0,0.0,16.8,37469.76
+Luxembourg,Luxembourg,2026-03-02,13.6,2.6,0.0,12.4,37769.22
+Luxembourg,Luxembourg,2026-03-03,15.1,3.5,0.0,9.4,38408.39
+Luxembourg,Luxembourg,2026-03-04,15.1,1.6,0.0,12.7,38529.49
+Luxembourg,Luxembourg,2026-03-05,15.1,4.4,0.0,11.4,38652.04
+Luxembourg,Luxembourg,2026-03-06,15.7,3.3,0.0,6.9,37902.34
+Luxembourg,Luxembourg,2026-03-07,16.7,3.0,0.0,9.4,38936.32
+Luxembourg,Luxembourg,2026-03-08,15.5,2.7,0.0,6.8,39027.09
+Luxembourg,Luxembourg,2026-03-09,16.3,5.4,0.1,7.3,39154.11
+Luxembourg,Luxembourg,2026-03-10,13.6,5.1,2.1,18.1,39281.92
+Luxembourg,Luxembourg,2026-03-11,9.5,4.1,8.3,25.0,0.0
+Luxembourg,Luxembourg,2026-03-12,10.4,2.2,0.1,20.8,39759.83
+Luxembourg,Luxembourg,2026-03-13,11.1,4.3,13.8,27.2,1068.58
+Luxembourg,Luxembourg,2026-03-14,5.9,0.6,5.4,22.5,8947.87
+Luxembourg,Luxembourg,2026-03-15,8.1,0.5,0.0,17.6,28912.91
+Luxembourg,Luxembourg,2026-03-16,8.6,3.7,2.4,22.6,39294.75
+Luxembourg,Luxembourg,2026-03-17,11.6,5.4,0.0,11.3,12804.28
+Luxembourg,Luxembourg,2026-03-18,12.0,3.9,0.0,22.3,41941.14
+Luxembourg,Luxembourg,2026-03-19,14.0,4.0,0.0,15.1,42109.06
+Luxembourg,Luxembourg,2026-03-20,14.2,2.5,0.0,10.7,41844.73
+Luxembourg,Luxembourg,2026-03-21,13.1,2.9,0.0,12.8,41797.23
+Luxembourg,Luxembourg,2026-03-22,12.6,3.3,0.0,17.7,33237.03
+Luxembourg,Luxembourg,2026-03-23,14.1,0.7,0.0,7.8,42481.77
+Luxembourg,Luxembourg,2026-03-24,14.4,3.7,0.0,21.5,36000.0
+Luxembourg,Luxembourg,2026-03-25,9.8,1.5,5.4,26.9,20387.14
+Luxembourg,Luxembourg,2026-03-26,6.0,-1.4,0.9,22.1,42759.88
+Luxembourg,Luxembourg,2026-03-27,7.0,-2.8,0.0,10.7,33053.05
+Luxembourg,Luxembourg,2026-03-28,7.3,0.2,4.9,18.8,17745.18
+Luxembourg,Luxembourg,2026-03-29,9.1,-0.4,0.2,19.7,35375.42
+Luxembourg,Luxembourg,2026-03-30,7.8,1.2,3.7,25.9,39472.36
+Guernsey,St. Peter Port,2026-03-01,11.0,9.3,5.4,47.6,11861.64
+Guernsey,St. Peter Port,2026-03-02,12.3,9.4,0.0,38.2,38536.12
+Guernsey,St. Peter Port,2026-03-03,11.9,10.1,0.0,27.9,38480.14
+Guernsey,St. Peter Port,2026-03-04,12.7,9.1,0.0,25.8,39130.58
+Guernsey,St. Peter Port,2026-03-05,12.4,10.1,0.0,26.5,38007.01
+Guernsey,St. Peter Port,2026-03-06,10.9,8.6,1.3,28.2,230.57
+Guernsey,St. Peter Port,2026-03-07,10.3,9.1,0.2,25.1,3598.6
+Guernsey,St. Peter Port,2026-03-08,10.3,8.9,2.1,19.6,33911.72
+Guernsey,St. Peter Port,2026-03-09,10.3,9.2,2.4,20.3,29413.62
+Guernsey,St. Peter Port,2026-03-10,11.2,9.6,1.6,41.7,9248.78
+Guernsey,St. Peter Port,2026-03-11,11.1,9.8,3.1,45.1,39600.0
+Guernsey,St. Peter Port,2026-03-12,11.6,9.4,0.4,55.9,28800.0
+Guernsey,St. Peter Port,2026-03-13,11.6,6.0,9.9,55.0,0.0
+Guernsey,St. Peter Port,2026-03-14,9.2,7.0,0.3,31.4,39600.0
+Guernsey,St. Peter Port,2026-03-15,10.8,8.5,0.6,49.6,18489.02
+Guernsey,St. Peter Port,2026-03-16,10.9,10.3,0.0,42.6,13444.58
+Guernsey,St. Peter Port,2026-03-17,12.6,9.3,0.0,33.4,40300.09
+Guernsey,St. Peter Port,2026-03-18,13.3,10.8,0.0,36.1,41296.39
+Guernsey,St. Peter Port,2026-03-19,11.8,9.6,0.0,32.9,41938.56
+Guernsey,St. Peter Port,2026-03-20,11.0,9.6,0.0,25.3,39600.0
+Guernsey,St. Peter Port,2026-03-21,10.4,9.3,0.0,26.3,39600.0
+Guernsey,St. Peter Port,2026-03-22,10.0,9.0,0.0,21.6,38778.93
+Guernsey,St. Peter Port,2026-03-23,10.5,9.4,0.0,18.8,37022.05
+Guernsey,St. Peter Port,2026-03-24,10.9,10.1,0.8,61.5,14320.12
+Guernsey,St. Peter Port,2026-03-25,10.7,8.0,0.9,67.0,42757.79
+Guernsey,St. Peter Port,2026-03-26,10.3,7.8,0.0,41.8,33679.52
+Guernsey,St. Peter Port,2026-03-27,10.7,9.4,1.7,37.1,1577.18
+Guernsey,St. Peter Port,2026-03-28,9.9,8.2,0.2,42.8,43304.8
+Guernsey,St. Peter Port,2026-03-29,10.9,8.7,0.5,50.9,16703.49
+Guernsey,St. Peter Port,2026-03-30,10.9,9.8,0.0,41.8,43626.13
+Andorra,Andorra la Vella,2026-03-01,11.7,1.6,0.9,8.8,38353.95
+Andorra,Andorra la Vella,2026-03-02,12.7,-1.3,0.0,9.2,38875.86
+Andorra,Andorra la Vella,2026-03-03,13.4,1.8,2.4,6.5,27988.93
+Andorra,Andorra la Vella,2026-03-04,14.2,0.7,0.7,9.2,34001.39
+Andorra,Andorra la Vella,2026-03-05,14.3,2.6,9.0,7.3,11413.26
+Andorra,Andorra la Vella,2026-03-06,11.2,3.7,9.3,5.4,7402.49
+Andorra,Andorra la Vella,2026-03-07,11.4,2.6,0.5,8.9,27989.58
+Andorra,Andorra la Vella,2026-03-08,9.8,0.2,1.2,7.7,28950.1
+Andorra,Andorra la Vella,2026-03-09,10.6,0.5,2.0,8.0,35747.31
+Andorra,Andorra la Vella,2026-03-10,12.9,-1.0,0.1,11.4,40613.53
+Andorra,Andorra la Vella,2026-03-11,13.6,1.8,0.4,11.1,19198.61
+Andorra,Andorra la Vella,2026-03-12,15.1,0.4,0.0,10.3,38162.27
+Andorra,Andorra la Vella,2026-03-13,16.0,-0.4,0.5,11.9,41961.15
+Andorra,Andorra la Vella,2026-03-14,7.3,0.3,6.0,15.7,32087.19
+Andorra,Andorra la Vella,2026-03-15,7.0,-1.7,5.6,36.3,31852.86
+Andorra,Andorra la Vella,2026-03-16,16.7,-1.5,0.0,10.4,42485.77
+Andorra,Andorra la Vella,2026-03-17,20.0,0.5,0.0,12.6,42660.2
+Andorra,Andorra la Vella,2026-03-18,20.0,4.1,0.0,15.2,42834.23
+Andorra,Andorra la Vella,2026-03-19,9.7,1.9,2.1,7.1,3224.77
+Andorra,Andorra la Vella,2026-03-20,14.7,0.3,0.0,10.1,43075.85
+Andorra,Andorra la Vella,2026-03-21,15.3,-0.5,0.0,15.2,43179.16
+Andorra,Andorra la Vella,2026-03-22,15.8,-0.0,0.0,13.1,37564.57
+Andorra,Andorra la Vella,2026-03-23,14.6,1.1,0.0,8.6,43200.0
+Andorra,Andorra la Vella,2026-03-24,16.1,-0.9,0.0,13.8,43200.0
+Andorra,Andorra la Vella,2026-03-25,17.9,0.6,0.0,13.0,43200.0
+Andorra,Andorra la Vella,2026-03-26,8.1,1.7,0.0,20.3,42456.03
+Andorra,Andorra la Vella,2026-03-27,10.2,0.8,0.0,8.8,42958.3
+Andorra,Andorra la Vella,2026-03-28,10.2,-1.1,2.3,17.0,33833.1
+Andorra,Andorra la Vella,2026-03-29,3.2,-2.3,6.2,32.2,26936.25
+Andorra,Andorra la Vella,2026-03-30,11.7,-0.4,1.1,21.2,21646.11
+Albania,Tirana,2026-03-01,15.9,5.8,0.0,10.5,37618.89
+Albania,Tirana,2026-03-02,15.8,5.8,0.0,12.5,35465.8
+Albania,Tirana,2026-03-03,16.2,6.6,0.0,11.3,37575.68
+Albania,Tirana,2026-03-04,17.0,7.2,0.0,8.2,38735.29
+Albania,Tirana,2026-03-05,15.9,5.4,0.2,13.0,30339.64
+Albania,Tirana,2026-03-06,17.9,3.9,0.0,9.8,39179.25
+Albania,Tirana,2026-03-07,18.7,7.2,0.0,11.5,38964.27
+Albania,Tirana,2026-03-08,17.0,9.2,1.4,10.6,27223.64
+Albania,Tirana,2026-03-09,15.1,6.2,6.7,7.6,16423.96
+Albania,Tirana,2026-03-10,17.6,2.9,0.0,12.1,40302.47
+Albania,Tirana,2026-03-11,16.4,6.2,0.0,10.3,40366.75
+Albania,Tirana,2026-03-12,17.0,6.4,0.0,10.1,40739.62
+Albania,Tirana,2026-03-13,18.0,8.2,0.0,11.3,40805.12
+Albania,Tirana,2026-03-14,17.0,7.7,5.0,6.9,41114.5
+Albania,Tirana,2026-03-15,18.2,5.4,0.0,15.6,41386.42
+Albania,Tirana,2026-03-16,18.0,4.8,0.0,12.2,40737.31
+Albania,Tirana,2026-03-17,13.6,9.4,3.0,8.4,0.0
+Albania,Tirana,2026-03-18,14.3,7.6,0.6,7.8,1069.94
+Albania,Tirana,2026-03-19,16.1,5.3,0.0,7.2,27813.94
+Albania,Tirana,2026-03-20,15.1,2.9,0.0,11.0,39681.51
+Albania,Tirana,2026-03-21,14.3,3.8,0.0,14.1,39954.8
+Albania,Tirana,2026-03-22,15.6,4.4,0.0,11.1,34463.25
+Albania,Tirana,2026-03-23,15.5,5.9,5.3,9.0,28178.36
+Albania,Tirana,2026-03-24,17.7,4.5,0.2,8.3,42763.79
+Albania,Tirana,2026-03-25,17.1,4.4,0.0,13.9,42275.08
+Albania,Tirana,2026-03-26,16.8,6.8,13.5,24.8,41017.39
+Albania,Tirana,2026-03-27,13.2,5.2,8.7,15.8,37079.03
+Albania,Tirana,2026-03-28,13.1,4.1,2.3,13.6,39600.0
+Albania,Tirana,2026-03-29,14.4,3.2,0.0,13.9,43088.31
+Albania,Tirana,2026-03-30,14.4,4.3,0.0,11.2,40313.5
+Gibraltar,Gibraltar,2026-03-01,14.9,13.0,4.6,30.8,39600.0
+Gibraltar,Gibraltar,2026-03-02,14.7,13.2,8.6,27.5,28994.87
+Gibraltar,Gibraltar,2026-03-03,15.8,11.4,10.5,30.7,34406.0
+Gibraltar,Gibraltar,2026-03-04,13.8,9.4,27.9,14.4,8905.08
+Gibraltar,Gibraltar,2026-03-05,14.9,10.0,6.7,23.7,15603.27
+Gibraltar,Gibraltar,2026-03-06,12.2,8.4,8.9,27.6,21537.87
+Gibraltar,Gibraltar,2026-03-07,14.4,10.0,1.1,15.5,20457.62
+Gibraltar,Gibraltar,2026-03-08,16.5,10.4,0.6,6.6,38641.48
+Gibraltar,Gibraltar,2026-03-09,16.5,9.5,1.3,16.2,39600.0
+Gibraltar,Gibraltar,2026-03-10,13.3,7.4,1.6,15.7,38995.84
+Gibraltar,Gibraltar,2026-03-11,14.1,8.0,0.0,13.2,39600.0
+Gibraltar,Gibraltar,2026-03-12,15.1,11.5,0.0,25.0,39600.0
+Gibraltar,Gibraltar,2026-03-13,17.7,12.2,0.0,16.3,39600.0
+Gibraltar,Gibraltar,2026-03-14,16.1,11.0,0.1,28.1,35993.02
+Gibraltar,Gibraltar,2026-03-15,18.4,12.6,0.0,17.6,38015.89
+Gibraltar,Gibraltar,2026-03-16,16.3,11.8,0.1,28.5,39600.0
+Gibraltar,Gibraltar,2026-03-17,15.8,13.1,0.0,27.8,39600.0
+Gibraltar,Gibraltar,2026-03-18,16.2,11.4,1.8,16.9,39600.0
+Gibraltar,Gibraltar,2026-03-19,16.0,13.5,4.6,31.2,27970.94
+Gibraltar,Gibraltar,2026-03-20,14.3,13.0,20.4,30.6,0.0
+Gibraltar,Gibraltar,2026-03-21,14.9,13.1,9.9,22.9,21475.54
+Gibraltar,Gibraltar,2026-03-22,15.3,12.8,2.3,20.3,37206.37
+Gibraltar,Gibraltar,2026-03-23,16.3,12.0,0.0,19.8,40158.79
+Gibraltar,Gibraltar,2026-03-24,15.5,13.4,2.9,32.7,39806.92
+Gibraltar,Gibraltar,2026-03-25,15.4,12.5,0.0,25.4,40023.08
+Gibraltar,Gibraltar,2026-03-26,16.7,12.0,0.1,22.4,40425.18
+Gibraltar,Gibraltar,2026-03-27,15.7,13.5,0.0,27.7,41024.35
+Gibraltar,Gibraltar,2026-03-28,15.8,11.6,0.0,22.0,41241.19
+Gibraltar,Gibraltar,2026-03-29,20.1,10.8,0.0,22.0,42596.31
+Gibraltar,Gibraltar,2026-03-30,15.0,11.0,0.0,23.9,42245.33
+Switzerland,Bern,2026-03-01,10.3,2.0,0.7,7.6,22953.86
+Switzerland,Bern,2026-03-02,12.5,-0.2,0.0,6.9,38055.54
+Switzerland,Bern,2026-03-03,13.4,0.9,0.0,8.1,38912.91
+Switzerland,Bern,2026-03-04,12.9,0.2,0.0,8.8,39024.06
+Switzerland,Bern,2026-03-05,13.6,0.8,0.0,4.7,39136.62
+Switzerland,Bern,2026-03-06,14.6,1.5,0.0,5.0,39250.46
+Switzerland,Bern,2026-03-07,15.1,2.3,0.0,4.7,39365.46
+Switzerland,Bern,2026-03-08,14.4,3.3,0.0,5.6,39481.49
+Switzerland,Bern,2026-03-09,14.5,4.0,0.0,5.3,39608.35
+Switzerland,Bern,2026-03-10,12.9,3.1,1.9,13.9,29356.66
+Switzerland,Bern,2026-03-11,12.4,3.5,7.7,20.5,19204.58
+Switzerland,Bern,2026-03-12,11.1,2.3,1.5,18.0,39816.69
+Switzerland,Bern,2026-03-13,13.6,-0.9,0.0,15.7,39600.0
+Switzerland,Bern,2026-03-14,8.2,-0.2,20.2,30.2,0.0
+Switzerland,Bern,2026-03-15,5.2,-1.0,1.2,19.6,27091.12
+Switzerland,Bern,2026-03-16,8.1,-0.9,0.1,15.0,18000.0
+Switzerland,Bern,2026-03-17,11.8,-1.1,0.0,16.4,40273.99
+Switzerland,Bern,2026-03-18,11.4,1.2,0.0,20.6,40904.17
+Switzerland,Bern,2026-03-19,12.1,-0.5,0.0,15.7,41197.77
+Switzerland,Bern,2026-03-20,11.9,-1.6,0.0,9.4,40839.03
+Switzerland,Bern,2026-03-21,10.8,-1.4,0.0,8.7,41095.02
+Switzerland,Bern,2026-03-22,10.6,1.2,7.2,9.0,34819.21
+Switzerland,Bern,2026-03-23,10.8,0.9,1.8,8.1,37180.41
+Switzerland,Bern,2026-03-24,12.7,-0.1,0.0,8.3,40773.83
+Switzerland,Bern,2026-03-25,12.1,0.4,5.4,35.8,21662.14
+Switzerland,Bern,2026-03-26,4.4,-2.2,3.0,19.3,38768.54
+Switzerland,Bern,2026-03-27,3.2,-2.8,2.0,19.7,33615.96
+Switzerland,Bern,2026-03-28,6.2,-4.6,4.4,10.8,22831.37
+Switzerland,Bern,2026-03-29,5.9,-0.6,3.3,19.4,40412.45
+Switzerland,Bern,2026-03-30,6.1,0.8,4.4,26.4,7794.28
+Monaco,Monaco,2026-03-01,14.5,9.5,0.1,11.2,21390.63
+Monaco,Monaco,2026-03-02,15.0,7.9,0.0,17.3,37433.61
+Monaco,Monaco,2026-03-03,16.9,6.9,0.0,23.8,39106.67
+Monaco,Monaco,2026-03-04,18.1,8.5,0.0,24.5,39207.3
+Monaco,Monaco,2026-03-05,19.3,11.1,0.0,27.8,36235.3
+Monaco,Monaco,2026-03-06,19.3,13.6,0.7,25.6,23025.65
+Monaco,Monaco,2026-03-07,16.7,10.8,0.0,21.1,25622.6
+Monaco,Monaco,2026-03-08,16.2,8.5,0.0,18.9,38357.19
+Monaco,Monaco,2026-03-09,16.9,8.2,2.9,19.3,39600.0
+Monaco,Monaco,2026-03-10,13.8,8.2,21.9,11.0,29617.06
+Monaco,Monaco,2026-03-11,14.7,6.2,2.0,16.3,36099.93
+Monaco,Monaco,2026-03-12,15.1,8.4,3.6,13.5,35515.39
+Monaco,Monaco,2026-03-13,15.7,6.6,0.0,11.4,39600.0
+Monaco,Monaco,2026-03-14,12.4,8.3,47.0,32.1,0.0
+Monaco,Monaco,2026-03-15,17.9,8.8,6.9,25.3,26797.73
+Monaco,Monaco,2026-03-16,17.2,9.3,0.0,14.8,39891.03
+Monaco,Monaco,2026-03-17,18.0,8.6,0.0,17.6,40171.83
+Monaco,Monaco,2026-03-18,14.5,8.4,0.4,24.0,21768.1
+Monaco,Monaco,2026-03-19,17.7,7.1,0.0,19.5,40733.41
+Monaco,Monaco,2026-03-20,15.3,6.0,0.0,9.4,40696.27
+Monaco,Monaco,2026-03-21,14.1,8.3,1.3,10.6,40341.48
+Monaco,Monaco,2026-03-22,10.9,8.0,7.5,12.3,0.0
+Monaco,Monaco,2026-03-23,14.4,6.1,0.0,13.6,41540.41
+Monaco,Monaco,2026-03-24,16.6,5.6,0.0,11.5,41903.92
+Monaco,Monaco,2026-03-25,20.3,6.6,0.0,29.9,42450.49
+Monaco,Monaco,2026-03-26,15.6,5.9,0.1,24.3,36124.85
+Monaco,Monaco,2026-03-27,15.4,4.0,0.0,17.3,43559.25
+Monaco,Monaco,2026-03-28,16.8,5.1,0.0,19.1,40738.95
+Monaco,Monaco,2026-03-29,19.1,7.8,0.2,16.2,31648.63
+Monaco,Monaco,2026-03-30,17.6,7.4,0.0,16.8,42660.41
+Hungary,Budapest,2026-03-01,12.1,0.2,0.0,4.5,36474.79
+Hungary,Budapest,2026-03-02,12.9,2.6,0.0,5.1,29124.73
+Hungary,Budapest,2026-03-03,13.6,2.5,0.0,5.1,36705.59
+Hungary,Budapest,2026-03-04,14.4,2.2,0.3,6.8,35577.17
+Hungary,Budapest,2026-03-05,15.4,4.8,0.0,9.8,37778.14
+Hungary,Budapest,2026-03-06,14.4,1.5,0.0,6.0,38362.14
+Hungary,Budapest,2026-03-07,15.4,1.2,0.0,6.9,39273.7
+Hungary,Budapest,2026-03-08,16.1,1.8,0.0,7.4,38641.48
+Hungary,Budapest,2026-03-09,14.4,2.0,0.0,12.7,39761.09
+Hungary,Budapest,2026-03-10,14.9,2.8,0.0,9.7,37352.32
+Hungary,Budapest,2026-03-11,16.0,2.8,0.0,10.2,39565.71
+Hungary,Budapest,2026-03-12,15.4,5.7,2.2,11.4,37482.91
+Hungary,Budapest,2026-03-13,17.5,4.4,0.1,13.2,40341.54
+Hungary,Budapest,2026-03-14,17.4,4.6,0.0,14.6,41501.73
+Hungary,Budapest,2026-03-15,16.5,4.5,0.0,9.3,42131.76
+Hungary,Budapest,2026-03-16,14.9,2.5,0.8,13.0,33160.46
+Hungary,Budapest,2026-03-17,11.9,5.1,0.7,14.1,27118.17
+Hungary,Budapest,2026-03-18,16.4,6.1,0.0,20.0,42505.64
+Hungary,Budapest,2026-03-19,12.8,4.7,0.0,17.7,32109.76
+Hungary,Budapest,2026-03-20,12.8,4.6,0.0,13.1,22928.34
+Hungary,Budapest,2026-03-21,12.9,6.3,0.0,15.1,29494.04
+Hungary,Budapest,2026-03-22,15.4,6.7,0.0,10.6,34524.35
+Hungary,Budapest,2026-03-23,15.6,6.6,0.0,8.8,40546.61
+Hungary,Budapest,2026-03-24,17.2,6.2,0.0,11.6,27539.44
+Hungary,Budapest,2026-03-25,18.0,3.5,0.0,15.3,39079.26
+Hungary,Budapest,2026-03-26,12.6,6.7,13.9,17.3,10753.62
+Hungary,Budapest,2026-03-27,12.5,4.2,2.2,24.0,13390.01
+Hungary,Budapest,2026-03-28,11.4,4.3,0.5,19.4,21630.01
+Hungary,Budapest,2026-03-29,8.8,5.2,10.9,21.5,2215.35
+Hungary,Budapest,2026-03-30,7.1,4.8,11.5,20.6,0.0
+Slovenia,Ljubljana,2026-03-01,14.6,1.8,0.0,12.0,24155.64
+Slovenia,Ljubljana,2026-03-02,11.8,2.0,2.9,8.5,23782.62
+Slovenia,Ljubljana,2026-03-03,14.6,1.8,0.0,8.1,38312.44
+Slovenia,Ljubljana,2026-03-04,15.1,0.7,0.6,11.6,37773.96
+Slovenia,Ljubljana,2026-03-05,14.9,2.0,0.0,9.2,32230.97
+Slovenia,Ljubljana,2026-03-06,15.4,0.1,0.0,8.2,39004.5
+Slovenia,Ljubljana,2026-03-07,16.0,0.1,0.0,6.0,39088.15
+Slovenia,Ljubljana,2026-03-08,16.1,0.6,0.0,8.1,39359.73
+Slovenia,Ljubljana,2026-03-09,14.7,0.2,0.0,8.2,37505.17
+Slovenia,Ljubljana,2026-03-10,14.5,0.9,0.0,13.9,39337.86
+Slovenia,Ljubljana,2026-03-11,14.6,2.0,0.0,19.3,36646.66
+Slovenia,Ljubljana,2026-03-12,15.6,4.0,0.3,11.4,33750.56
+Slovenia,Ljubljana,2026-03-13,15.4,3.6,0.5,5.9,36004.84
+Slovenia,Ljubljana,2026-03-14,13.8,1.8,0.4,17.4,40766.39
+Slovenia,Ljubljana,2026-03-15,15.6,2.8,0.7,13.6,40374.62
+Slovenia,Ljubljana,2026-03-16,15.8,2.5,8.4,19.3,34936.52
+Slovenia,Ljubljana,2026-03-17,10.5,2.0,1.3,17.1,38285.03
+Slovenia,Ljubljana,2026-03-18,11.4,3.4,2.9,28.6,26004.91
+Slovenia,Ljubljana,2026-03-19,12.2,2.2,0.0,24.8,42500.49
+Slovenia,Ljubljana,2026-03-20,11.5,-0.4,0.0,17.0,39479.27
+Slovenia,Ljubljana,2026-03-21,11.2,0.4,0.0,11.3,15245.98
+Slovenia,Ljubljana,2026-03-22,12.2,2.5,0.1,17.6,41071.1
+Slovenia,Ljubljana,2026-03-23,12.1,1.1,0.1,12.1,41895.71
+Slovenia,Ljubljana,2026-03-24,15.5,0.4,0.0,5.2,43071.94
+Slovenia,Ljubljana,2026-03-25,15.6,-0.4,3.8,20.2,36341.73
+Slovenia,Ljubljana,2026-03-26,8.0,1.1,16.2,9.7,0.0
+Slovenia,Ljubljana,2026-03-27,9.8,0.6,2.2,13.7,22595.81
+Slovenia,Ljubljana,2026-03-28,13.9,-1.0,0.0,14.9,43200.0
+Slovenia,Ljubljana,2026-03-29,13.8,3.1,0.0,13.7,28471.12
+Slovenia,Ljubljana,2026-03-30,9.4,-0.2,1.6,8.3,17616.2
+San Marino,City of San Marino,2026-03-01,12.6,6.0,0.3,10.4,26013.57
+San Marino,City of San Marino,2026-03-02,12.4,5.0,3.6,9.0,35179.36
+San Marino,City of San Marino,2026-03-03,12.9,6.0,0.0,7.5,36000.0
+San Marino,City of San Marino,2026-03-04,11.4,6.9,1.1,7.3,3755.68
+San Marino,City of San Marino,2026-03-05,10.4,7.1,0.7,9.1,508.39
+San Marino,City of San Marino,2026-03-06,10.7,4.9,0.4,11.0,2730.93
+San Marino,City of San Marino,2026-03-07,13.4,2.5,0.0,11.7,39600.0
+San Marino,City of San Marino,2026-03-08,12.4,5.7,0.1,8.7,39600.0
+San Marino,City of San Marino,2026-03-09,13.1,3.1,0.1,9.7,39600.0
+San Marino,City of San Marino,2026-03-10,14.1,5.4,0.4,8.3,37214.94
+San Marino,City of San Marino,2026-03-11,14.9,6.0,2.5,11.6,37831.45
+San Marino,City of San Marino,2026-03-12,13.5,6.2,7.4,12.8,25434.01
+San Marino,City of San Marino,2026-03-13,13.2,6.4,0.7,9.5,30065.43
+San Marino,City of San Marino,2026-03-14,14.4,6.1,0.0,22.1,39636.95
+San Marino,City of San Marino,2026-03-15,12.8,6.8,2.6,22.6,39600.0
+San Marino,City of San Marino,2026-03-16,14.3,5.9,0.6,10.9,39845.92
+San Marino,City of San Marino,2026-03-17,10.7,4.6,0.4,18.4,39790.7
+San Marino,City of San Marino,2026-03-18,7.9,2.4,17.9,19.3,0.0
+San Marino,City of San Marino,2026-03-19,10.6,4.6,0.0,23.4,40957.11
+San Marino,City of San Marino,2026-03-20,10.6,3.7,0.1,20.9,40264.34
+San Marino,City of San Marino,2026-03-21,10.3,1.6,0.0,15.1,40529.03
+San Marino,City of San Marino,2026-03-22,10.0,1.1,0.4,9.9,38839.42
+San Marino,City of San Marino,2026-03-23,11.5,2.0,0.2,15.9,39784.09
+San Marino,City of San Marino,2026-03-24,12.8,2.6,0.0,13.2,42527.77
+San Marino,City of San Marino,2026-03-25,15.6,3.4,0.2,18.9,42228.86
+San Marino,City of San Marino,2026-03-26,9.7,-1.0,50.8,40.0,0.0
+San Marino,City of San Marino,2026-03-27,5.2,0.2,7.7,18.4,845.42
+San Marino,City of San Marino,2026-03-28,8.1,0.7,0.0,8.8,43087.52
+San Marino,City of San Marino,2026-03-29,10.8,4.1,0.0,17.1,19043.8
+San Marino,City of San Marino,2026-03-30,12.9,3.1,5.0,13.2,31589.4
+Romania,Bucharest,2026-03-01,4.2,-2.8,0.0,8.1,29319.26
+Romania,Bucharest,2026-03-02,6.8,-2.4,0.0,9.2,28020.8
+Romania,Bucharest,2026-03-03,9.4,-0.3,0.0,10.7,35116.94
+Romania,Bucharest,2026-03-04,12.9,0.1,0.0,10.8,39600.0
+Romania,Bucharest,2026-03-05,14.2,2.8,0.0,12.5,36747.29
+Romania,Bucharest,2026-03-06,13.5,3.1,0.0,12.2,39600.0
+Romania,Bucharest,2026-03-07,12.1,0.6,0.0,9.1,39600.0
+Romania,Bucharest,2026-03-08,11.4,0.2,0.0,10.9,38665.11
+Romania,Bucharest,2026-03-09,11.3,0.8,0.0,10.3,39600.0
+Romania,Bucharest,2026-03-10,13.4,0.4,0.0,12.7,39600.0
+Romania,Bucharest,2026-03-11,12.6,0.8,0.0,11.2,39600.0
+Romania,Bucharest,2026-03-12,10.7,2.0,0.0,9.0,24257.08
+Romania,Bucharest,2026-03-13,14.3,0.8,0.0,12.3,39600.0
+Romania,Bucharest,2026-03-14,10.4,3.1,0.0,14.9,27402.39
+Romania,Bucharest,2026-03-15,12.1,2.0,0.0,17.6,35482.27
+Romania,Bucharest,2026-03-16,12.1,1.0,0.5,8.2,34577.84
+Romania,Bucharest,2026-03-17,13.2,3.0,0.0,12.6,32581.04
+Romania,Bucharest,2026-03-18,12.2,2.8,0.0,23.2,34248.0
+Romania,Bucharest,2026-03-19,7.7,3.0,0.0,18.0,13259.9
+Romania,Bucharest,2026-03-20,11.2,3.6,0.1,18.3,17733.23
+Romania,Bucharest,2026-03-21,12.1,5.0,0.5,22.3,18359.91
+Romania,Bucharest,2026-03-22,10.6,6.6,1.1,20.6,180.79
+Romania,Bucharest,2026-03-23,9.9,6.0,5.4,10.7,0.0
+Romania,Bucharest,2026-03-24,15.3,6.5,0.0,14.8,24064.16
+Romania,Bucharest,2026-03-25,15.2,6.2,0.0,9.2,37581.96
+Romania,Bucharest,2026-03-26,17.9,5.6,0.0,15.2,39461.19
+Romania,Bucharest,2026-03-27,15.0,4.7,0.8,25.4,22161.47
+Romania,Bucharest,2026-03-28,11.0,6.8,13.2,24.8,3361.9
+Romania,Bucharest,2026-03-29,10.0,7.3,23.9,17.2,0.0
+Romania,Bucharest,2026-03-30,13.5,7.7,6.2,13.9,2180.7
+Netherlands,Amsterdam,2026-03-01,12.1,4.0,1.0,25.1,25200.0
+Netherlands,Amsterdam,2026-03-02,15.3,6.6,0.0,15.9,36000.0
+Netherlands,Amsterdam,2026-03-03,14.8,5.2,0.0,14.1,36566.56
+Netherlands,Amsterdam,2026-03-04,14.1,3.0,0.0,12.2,36497.49
+Netherlands,Amsterdam,2026-03-05,16.3,5.9,0.0,12.0,37581.12
+Netherlands,Amsterdam,2026-03-06,16.8,6.6,0.0,9.3,36357.51
+Netherlands,Amsterdam,2026-03-07,11.9,5.8,0.0,11.4,37408.25
+Netherlands,Amsterdam,2026-03-08,13.8,6.1,0.0,11.0,29152.45
+Netherlands,Amsterdam,2026-03-09,15.8,1.1,0.0,4.7,34763.19
+Netherlands,Amsterdam,2026-03-10,12.6,6.1,0.4,15.6,28224.73
+Netherlands,Amsterdam,2026-03-11,10.3,6.6,5.4,24.4,8814.79
+Netherlands,Amsterdam,2026-03-12,11.9,5.3,0.0,33.7,38893.96
+Netherlands,Amsterdam,2026-03-13,10.7,5.2,7.6,33.7,0.0
+Netherlands,Amsterdam,2026-03-14,8.6,3.8,2.0,13.7,27519.23
+Netherlands,Amsterdam,2026-03-15,10.8,1.8,2.7,27.8,41077.06
+Netherlands,Amsterdam,2026-03-16,9.1,4.3,3.9,22.1,40267.46
+Netherlands,Amsterdam,2026-03-17,13.9,7.2,0.0,16.4,3501.5
+Netherlands,Amsterdam,2026-03-18,14.6,7.2,0.0,15.7,42248.98
+Netherlands,Amsterdam,2026-03-19,14.1,2.9,0.0,11.2,40105.54
+Netherlands,Amsterdam,2026-03-20,10.5,4.0,0.0,14.9,42310.74
+Netherlands,Amsterdam,2026-03-21,9.6,2.7,0.0,13.0,42564.19
+Netherlands,Amsterdam,2026-03-22,14.0,3.5,0.0,13.5,42668.46
+Netherlands,Amsterdam,2026-03-23,13.5,4.7,0.0,10.5,41775.61
+Netherlands,Amsterdam,2026-03-24,12.6,6.9,1.1,30.9,10733.05
+Netherlands,Amsterdam,2026-03-25,10.9,3.7,10.4,34.5,22279.07
+Netherlands,Amsterdam,2026-03-26,6.5,2.0,2.4,20.9,42372.8
+Netherlands,Amsterdam,2026-03-27,8.9,1.0,1.2,21.1,7557.77
+Netherlands,Amsterdam,2026-03-28,8.9,1.6,9.6,20.4,42090.59
+Netherlands,Amsterdam,2026-03-29,9.6,3.1,4.1,30.3,27409.96
+Netherlands,Amsterdam,2026-03-30,8.9,4.7,4.7,26.0,43277.04
+Finland,Helsinki,2026-03-01,1.8,0.2,3.4,20.5,0.0
+Finland,Helsinki,2026-03-02,1.8,-3.5,0.2,14.6,0.0
+Finland,Helsinki,2026-03-03,2.4,-1.3,1.6,31.3,0.0
+Finland,Helsinki,2026-03-04,3.8,0.4,0.0,29.5,28745.97
+Finland,Helsinki,2026-03-05,4.8,-1.0,0.0,24.0,38143.39
+Finland,Helsinki,2026-03-06,1.8,-4.9,0.0,20.6,38474.88
+Finland,Helsinki,2026-03-07,4.0,-1.3,0.0,15.1,32094.3
+Finland,Helsinki,2026-03-08,3.6,-2.2,0.0,17.2,33764.78
+Finland,Helsinki,2026-03-09,3.3,-0.2,1.3,21.4,20759.88
+Finland,Helsinki,2026-03-10,3.5,-0.5,0.0,20.7,39600.0
+Finland,Helsinki,2026-03-11,3.7,0.7,0.1,22.2,39600.0
+Finland,Helsinki,2026-03-12,4.3,1.6,1.8,26.7,1034.91
+Finland,Helsinki,2026-03-13,6.0,1.3,0.0,30.7,39600.0
+Finland,Helsinki,2026-03-14,7.9,4.0,0.0,27.0,39600.0
+Finland,Helsinki,2026-03-15,6.7,1.5,0.5,25.2,39600.0
+Finland,Helsinki,2026-03-16,2.6,0.1,0.7,14.3,11370.31
+Finland,Helsinki,2026-03-17,4.2,-0.0,0.1,17.1,14265.11
+Finland,Helsinki,2026-03-18,1.1,-0.3,0.0,26.4,0.0
+Finland,Helsinki,2026-03-19,3.5,0.7,0.1,23.5,1088.15
+Finland,Helsinki,2026-03-20,8.4,-0.6,0.0,14.2,40135.71
+Finland,Helsinki,2026-03-21,5.0,-0.2,0.0,25.6,40894.47
+Finland,Helsinki,2026-03-22,5.3,1.6,0.0,26.7,41654.18
+Finland,Helsinki,2026-03-23,5.1,0.4,0.4,29.1,41153.5
+Finland,Helsinki,2026-03-24,4.7,-1.0,0.1,28.8,39522.31
+Finland,Helsinki,2026-03-25,7.3,3.3,3.1,27.9,811.12
+Finland,Helsinki,2026-03-26,6.1,3.0,0.0,26.0,34638.68
+Finland,Helsinki,2026-03-27,5.5,0.9,0.0,18.9,45443.28
+Finland,Helsinki,2026-03-28,3.6,0.6,0.0,16.3,45773.56
+Finland,Helsinki,2026-03-29,3.4,0.6,0.1,18.5,21529.46
+Finland,Helsinki,2026-03-30,1.9,-0.8,0.0,12.7,27958.32
+Ireland,Dublin,2026-03-01,12.7,7.2,7.9,32.7,0.0
+Ireland,Dublin,2026-03-02,11.3,6.2,3.3,24.0,31183.23
+Ireland,Dublin,2026-03-03,9.0,1.1,0.0,15.0,38794.22
+Ireland,Dublin,2026-03-04,12.7,7.6,1.2,28.2,38504.27
+Ireland,Dublin,2026-03-05,10.4,4.2,17.5,27.3,0.0
+Ireland,Dublin,2026-03-06,9.1,0.9,0.0,16.9,39210.98
+Ireland,Dublin,2026-03-07,10.9,1.9,0.0,17.9,39352.53
+Ireland,Dublin,2026-03-08,10.7,4.0,11.8,17.3,39495.15
+Ireland,Dublin,2026-03-09,11.2,6.5,3.2,14.7,21633.49
+Ireland,Dublin,2026-03-10,12.2,7.2,6.5,37.6,4541.0
+Ireland,Dublin,2026-03-11,11.0,6.3,0.0,37.6,34529.6
+Ireland,Dublin,2026-03-12,12.3,4.6,18.1,39.2,1042.03
+Ireland,Dublin,2026-03-13,6.6,2.9,2.0,43.3,29296.96
+Ireland,Dublin,2026-03-14,9.4,3.0,0.2,17.2,38789.1
+Ireland,Dublin,2026-03-15,9.7,4.5,2.7,34.6,29305.19
+Ireland,Dublin,2026-03-16,12.9,5.2,2.6,24.1,2639.9
+Ireland,Dublin,2026-03-17,13.5,10.1,0.1,28.0,26912.36
+Ireland,Dublin,2026-03-18,11.9,8.8,0.2,12.0,35116.73
+Ireland,Dublin,2026-03-19,12.4,6.5,0.0,11.9,39837.02
+Ireland,Dublin,2026-03-20,12.9,2.2,0.0,10.1,39937.57
+Ireland,Dublin,2026-03-21,13.2,4.4,0.0,12.4,40761.98
+Ireland,Dublin,2026-03-22,12.7,5.8,0.4,16.3,13684.47
+Ireland,Dublin,2026-03-23,12.8,5.4,0.0,25.0,1955.38
+Ireland,Dublin,2026-03-24,12.4,5.6,8.1,35.2,7933.4
+Ireland,Dublin,2026-03-25,7.5,3.0,1.9,35.7,42183.68
+Ireland,Dublin,2026-03-26,9.9,2.8,0.3,20.7,7555.1
+Ireland,Dublin,2026-03-27,11.0,4.9,2.3,26.0,41260.97
+Ireland,Dublin,2026-03-28,9.6,3.0,1.3,29.2,44120.76
+Ireland,Dublin,2026-03-29,13.4,5.6,1.7,38.2,19333.24
+Ireland,Dublin,2026-03-30,11.7,7.4,0.1,29.5,20127.46
+Serbia,Belgrade,2026-03-01,14.9,1.5,0.0,15.9,37481.68
+Serbia,Belgrade,2026-03-02,12.9,2.4,0.0,8.5,33966.53
+Serbia,Belgrade,2026-03-03,14.2,4.1,0.0,5.4,34094.77
+Serbia,Belgrade,2026-03-04,15.9,3.2,0.0,6.9,34930.11
+Serbia,Belgrade,2026-03-05,14.9,5.2,1.4,10.6,33127.97
+Serbia,Belgrade,2026-03-06,15.8,4.4,0.0,7.8,39029.96
+Serbia,Belgrade,2026-03-07,17.1,3.0,0.0,13.4,39096.65
+Serbia,Belgrade,2026-03-08,17.0,4.7,0.0,16.7,39491.43
+Serbia,Belgrade,2026-03-09,14.4,6.6,0.0,22.8,39560.0
+Serbia,Belgrade,2026-03-10,16.5,6.2,0.0,21.8,39955.73
+Serbia,Belgrade,2026-03-11,17.8,6.6,0.0,16.6,40025.79
+Serbia,Belgrade,2026-03-12,18.4,5.7,0.0,14.3,39530.98
+Serbia,Belgrade,2026-03-13,17.0,5.6,0.0,15.9,40775.8
+Serbia,Belgrade,2026-03-14,17.7,6.8,0.0,23.7,40735.05
+Serbia,Belgrade,2026-03-15,15.6,5.5,0.0,23.8,41019.48
+Serbia,Belgrade,2026-03-16,15.1,4.1,0.0,14.9,41303.81
+Serbia,Belgrade,2026-03-17,13.5,4.3,0.6,13.6,26006.81
+Serbia,Belgrade,2026-03-18,13.1,7.1,0.0,26.9,27753.57
+Serbia,Belgrade,2026-03-19,12.3,5.2,0.0,16.5,32953.56
+Serbia,Belgrade,2026-03-20,12.1,3.3,0.0,9.8,24588.67
+Serbia,Belgrade,2026-03-21,13.4,4.4,0.0,13.8,35754.08
+Serbia,Belgrade,2026-03-22,13.5,6.8,0.0,20.2,31417.15
+Serbia,Belgrade,2026-03-23,14.1,5.3,0.1,13.8,39721.67
+Serbia,Belgrade,2026-03-24,16.8,6.6,0.2,12.6,42611.79
+Serbia,Belgrade,2026-03-25,16.5,5.8,0.0,13.0,34454.45
+Serbia,Belgrade,2026-03-26,18.1,8.8,3.9,20.0,32400.0
+Serbia,Belgrade,2026-03-27,10.6,6.2,22.6,17.3,2763.36
+Serbia,Belgrade,2026-03-28,7.3,4.6,24.0,18.0,0.0
+Serbia,Belgrade,2026-03-29,10.1,4.3,3.4,18.5,3579.12
+Serbia,Belgrade,2026-03-30,7.1,4.2,4.8,21.8,0.0
+Czechia,Prague,2026-03-01,8.9,2.2,0.3,11.3,4289.16
+Czechia,Prague,2026-03-02,7.7,-1.6,0.0,7.7,37911.08
+Czechia,Prague,2026-03-03,10.2,-2.3,0.0,6.8,34174.21
+Czechia,Prague,2026-03-04,11.6,-0.8,0.0,8.0,38617.34
+Czechia,Prague,2026-03-05,10.8,-1.1,0.0,8.4,38716.51
+Czechia,Prague,2026-03-06,12.7,-1.1,0.0,10.3,38815.56
+Czechia,Prague,2026-03-07,14.9,0.6,0.0,10.6,38914.46
+Czechia,Prague,2026-03-08,12.9,1.3,0.0,9.6,35098.37
+Czechia,Prague,2026-03-09,15.7,2.5,0.0,16.5,29098.47
+Czechia,Prague,2026-03-10,15.9,4.3,2.1,13.6,34426.98
+Czechia,Prague,2026-03-11,15.9,4.6,1.2,12.1,39487.69
+Czechia,Prague,2026-03-12,10.6,4.5,3.3,11.9,14206.21
+Czechia,Prague,2026-03-13,15.1,2.7,0.0,14.5,40630.45
+Czechia,Prague,2026-03-14,15.7,4.8,0.1,15.5,34882.16
+Czechia,Prague,2026-03-15,7.8,5.6,0.5,13.9,0.0
+Czechia,Prague,2026-03-16,10.4,2.2,1.8,24.6,35140.7
+Czechia,Prague,2026-03-17,8.7,-0.2,0.4,9.6,41534.6
+Czechia,Prague,2026-03-18,14.0,0.6,0.0,15.6,42185.22
+Czechia,Prague,2026-03-19,13.2,2.2,0.0,7.6,39600.0
+Czechia,Prague,2026-03-20,11.6,1.3,0.3,12.6,11194.21
+Czechia,Prague,2026-03-21,9.8,3.8,0.6,12.3,18455.38
+Czechia,Prague,2026-03-22,12.8,0.5,0.0,10.5,41477.84
+Czechia,Prague,2026-03-23,14.1,1.1,0.0,5.5,41224.9
+Czechia,Prague,2026-03-24,15.9,1.9,0.0,12.8,39999.17
+Czechia,Prague,2026-03-25,14.6,4.8,2.2,23.4,11836.76
+Czechia,Prague,2026-03-26,7.6,2.2,0.6,20.1,31512.46
+Czechia,Prague,2026-03-27,7.9,-0.1,0.0,18.4,39958.54
+Czechia,Prague,2026-03-28,9.8,-0.5,0.0,11.7,43200.0
+Czechia,Prague,2026-03-29,8.2,2.3,1.0,17.8,7200.0
+Czechia,Prague,2026-03-30,7.2,1.7,0.9,22.2,13651.44
+Poland,Warsaw,2026-03-01,12.2,3.2,0.3,14.9,32988.09
+Poland,Warsaw,2026-03-02,11.4,0.5,0.0,11.9,36905.8
+Poland,Warsaw,2026-03-03,12.4,3.1,0.0,10.3,21858.68
+Poland,Warsaw,2026-03-04,10.1,1.2,0.0,13.7,37536.95
+Poland,Warsaw,2026-03-05,9.6,-1.5,0.0,10.3,37849.71
+Poland,Warsaw,2026-03-06,10.4,-1.9,0.0,6.0,38585.05
+Poland,Warsaw,2026-03-07,12.2,-1.5,0.0,6.7,38721.33
+Poland,Warsaw,2026-03-08,13.0,0.0,0.0,9.8,36085.85
+Poland,Warsaw,2026-03-09,14.3,1.5,0.0,13.1,39027.87
+Poland,Warsaw,2026-03-10,16.0,2.5,0.2,15.4,39136.08
+Poland,Warsaw,2026-03-11,17.6,6.0,0.0,15.1,36566.24
+Poland,Warsaw,2026-03-12,15.6,5.8,0.1,11.8,39416.12
+Poland,Warsaw,2026-03-13,16.8,4.8,0.3,15.1,39746.78
+Poland,Warsaw,2026-03-14,18.1,6.3,0.0,21.4,40489.43
+Poland,Warsaw,2026-03-15,17.2,4.8,1.7,15.7,39600.0
+Poland,Warsaw,2026-03-16,13.2,2.8,0.2,13.6,32400.0
+Poland,Warsaw,2026-03-17,11.1,2.9,0.0,10.6,30037.64
+Poland,Warsaw,2026-03-18,14.2,1.4,0.0,10.6,36326.84
+Poland,Warsaw,2026-03-19,12.4,1.4,0.0,8.3,39843.16
+Poland,Warsaw,2026-03-20,10.2,1.9,1.3,12.9,15301.63
+Poland,Warsaw,2026-03-21,11.2,1.2,0.0,11.0,35452.05
+Poland,Warsaw,2026-03-22,14.0,0.5,0.0,12.6,41132.04
+Poland,Warsaw,2026-03-23,14.8,2.2,0.0,9.9,32400.0
+Poland,Warsaw,2026-03-24,16.1,3.3,0.0,11.7,42584.86
+Poland,Warsaw,2026-03-25,16.4,6.2,1.9,22.4,19749.04
+Poland,Warsaw,2026-03-26,8.8,3.8,1.5,13.1,249.33
+Poland,Warsaw,2026-03-27,9.8,3.2,0.0,15.0,18848.74
+Poland,Warsaw,2026-03-28,14.6,3.5,0.2,14.0,37166.8
+Poland,Warsaw,2026-03-29,16.4,4.6,0.0,17.2,38876.23
+Poland,Warsaw,2026-03-30,10.7,2.3,0.1,10.2,6936.32
+Faroe Islands,Tórshavn,2026-03-01,6.8,3.9,13.1,27.6,9571.94
+Faroe Islands,Tórshavn,2026-03-02,8.2,1.9,13.1,49.5,9831.09
+Faroe Islands,Tórshavn,2026-03-03,7.4,1.6,1.2,34.6,25200.0
+Faroe Islands,Tórshavn,2026-03-04,7.9,4.1,6.1,37.7,0.0
+Faroe Islands,Tórshavn,2026-03-05,6.6,2.2,12.2,22.4,13864.39
+Faroe Islands,Tórshavn,2026-03-06,8.4,3.2,4.4,45.0,10739.7
+Faroe Islands,Tórshavn,2026-03-07,8.4,4.4,14.5,43.7,227.6
+Faroe Islands,Tórshavn,2026-03-08,6.5,3.0,0.7,18.6,5011.95
+Faroe Islands,Tórshavn,2026-03-09,6.9,1.8,5.9,28.9,28469.52
+Faroe Islands,Tórshavn,2026-03-10,7.7,5.2,14.1,36.1,25900.97
+Faroe Islands,Tórshavn,2026-03-11,7.0,3.1,22.5,46.5,23234.54
+Faroe Islands,Tórshavn,2026-03-12,4.9,1.7,17.3,30.8,11660.07
+Faroe Islands,Tórshavn,2026-03-13,5.4,-0.1,1.4,18.4,39538.97
+Faroe Islands,Tórshavn,2026-03-14,5.8,0.6,1.4,22.7,39600.0
+Faroe Islands,Tórshavn,2026-03-15,5.4,2.7,19.7,27.7,28918.74
+Faroe Islands,Tórshavn,2026-03-16,7.4,1.5,9.7,38.6,27790.03
+Faroe Islands,Tórshavn,2026-03-17,7.6,5.4,14.5,35.3,20972.92
+Faroe Islands,Tórshavn,2026-03-18,8.4,3.4,9.5,36.9,35909.44
+Faroe Islands,Tórshavn,2026-03-19,8.7,4.3,1.3,40.6,15972.97
+Faroe Islands,Tórshavn,2026-03-20,7.5,3.5,10.9,36.0,3457.07
+Faroe Islands,Tórshavn,2026-03-21,6.3,3.3,8.8,38.2,18997.87
+Faroe Islands,Tórshavn,2026-03-22,7.9,1.0,7.6,59.4,39600.0
+Faroe Islands,Tórshavn,2026-03-23,7.1,0.7,16.0,43.8,0.0
+Faroe Islands,Tórshavn,2026-03-24,6.5,0.8,8.0,43.4,13481.89
+Faroe Islands,Tórshavn,2026-03-25,0.9,-1.7,0.9,38.4,39898.52
+Faroe Islands,Tórshavn,2026-03-26,6.2,-2.6,4.8,36.0,5106.83
+Faroe Islands,Tórshavn,2026-03-27,5.2,2.4,18.1,40.7,32930.2
+Faroe Islands,Tórshavn,2026-03-28,5.0,-0.5,0.5,35.8,16962.22
+Faroe Islands,Tórshavn,2026-03-29,5.6,2.7,15.0,41.1,30678.91
+Faroe Islands,Tórshavn,2026-03-30,6.9,3.4,0.9,37.4,40580.61
+Moldova,Chișinău,2026-03-01,10.0,-2.6,0.0,10.7,38668.7
+Moldova,Chișinău,2026-03-02,11.2,-2.7,0.0,11.6,34978.66
+Moldova,Chișinău,2026-03-03,9.4,-0.4,1.4,19.3,34998.5
+Moldova,Chișinău,2026-03-04,12.0,-2.2,0.0,13.7,38932.28
+Moldova,Chișinău,2026-03-05,10.4,2.5,0.0,18.6,36898.53
+Moldova,Chișinău,2026-03-06,10.0,-0.9,0.0,24.6,37538.2
+Moldova,Chișinău,2026-03-07,10.9,-1.0,0.0,8.8,39194.13
+Moldova,Chișinău,2026-03-08,11.4,-2.2,0.0,6.8,39281.05
+Moldova,Chișinău,2026-03-09,12.9,-1.8,0.0,8.8,39367.79
+Moldova,Chișinău,2026-03-10,16.0,0.6,0.0,15.6,39641.83
+Moldova,Chișinău,2026-03-11,15.1,1.9,0.0,17.6,40006.93
+Moldova,Chișinău,2026-03-12,13.6,2.5,0.0,9.2,34626.36
+Moldova,Chișinău,2026-03-13,15.1,-0.2,0.0,12.1,40283.27
+Moldova,Chișinău,2026-03-14,12.1,-0.3,0.0,15.9,40560.38
+Moldova,Chișinău,2026-03-15,12.0,0.6,0.0,17.4,40837.14
+Moldova,Chișinău,2026-03-16,12.6,2.2,0.0,10.2,29637.17
+Moldova,Chișinău,2026-03-17,13.1,0.9,0.0,8.8,33118.8
+Moldova,Chișinău,2026-03-18,9.2,0.1,0.1,15.7,33252.52
+Moldova,Chișinău,2026-03-19,7.9,1.5,0.1,15.3,23502.89
+Moldova,Chișinău,2026-03-20,12.6,1.2,0.0,23.2,40525.42
+Moldova,Chișinău,2026-03-21,9.4,2.6,0.0,18.8,10055.52
+Moldova,Chișinău,2026-03-22,10.4,3.9,0.0,15.5,1610.76
+Moldova,Chișinău,2026-03-23,15.1,4.9,0.0,11.2,39348.36
+Moldova,Chișinău,2026-03-24,15.2,2.2,0.0,16.0,42925.2
+Moldova,Chișinău,2026-03-25,14.9,3.1,0.0,10.2,42261.89
+Moldova,Chișinău,2026-03-26,16.3,2.7,0.0,13.0,39278.91
+Moldova,Chișinău,2026-03-27,15.6,2.3,0.0,13.3,26823.59
+Moldova,Chișinău,2026-03-28,17.9,5.3,1.9,18.0,39775.7
+Moldova,Chișinău,2026-03-29,14.9,8.9,5.8,19.3,0.0
+Moldova,Chișinău,2026-03-30,12.6,8.6,7.6,19.8,0.0
+Russia,Moscow,2026-03-01,2.2,0.9,0.1,8.0,1194.45
+Russia,Moscow,2026-03-02,2.5,0.1,8.7,14.8,0.0
+Russia,Moscow,2026-03-03,0.9,-2.1,0.1,14.0,0.0
+Russia,Moscow,2026-03-04,0.9,-3.4,3.6,13.5,0.0
+Russia,Moscow,2026-03-05,1.8,-4.9,0.4,9.3,20669.33
+Russia,Moscow,2026-03-06,-0.2,-10.5,0.0,8.5,21291.98
+Russia,Moscow,2026-03-07,1.9,-4.3,0.0,21.1,24474.47
+Russia,Moscow,2026-03-08,2.1,-6.6,2.1,15.1,15869.38
+Russia,Moscow,2026-03-09,2.6,-7.2,0.5,13.9,3525.72
+Russia,Moscow,2026-03-10,5.7,1.2,0.0,14.1,35620.91
+Russia,Moscow,2026-03-11,6.4,-0.5,0.0,13.6,39497.68
+Russia,Moscow,2026-03-12,7.8,1.5,0.0,10.5,39600.0
+Russia,Moscow,2026-03-13,7.4,1.5,0.0,10.7,38279.9
+Russia,Moscow,2026-03-14,5.9,-0.2,0.0,11.9,39670.95
+Russia,Moscow,2026-03-15,5.2,-4.5,0.0,10.1,39608.44
+Russia,Moscow,2026-03-16,4.7,-4.8,0.0,8.2,39955.46
+Russia,Moscow,2026-03-17,5.7,-5.7,0.0,8.6,33597.45
+Russia,Moscow,2026-03-18,6.8,-3.3,0.0,8.2,39831.26
+Russia,Moscow,2026-03-19,6.2,-5.2,0.0,9.3,39769.67
+Russia,Moscow,2026-03-20,4.2,-4.8,0.0,9.9,39708.43
+Russia,Moscow,2026-03-21,5.3,-2.8,0.0,9.2,29926.43
+Russia,Moscow,2026-03-22,7.2,-3.6,0.0,8.3,41633.54
+Russia,Moscow,2026-03-23,6.4,-2.5,0.0,10.2,42312.43
+Russia,Moscow,2026-03-24,7.7,-1.8,0.0,9.8,42983.31
+Russia,Moscow,2026-03-25,7.3,-2.0,0.0,10.2,43026.65
+Russia,Moscow,2026-03-26,6.9,-1.9,0.0,8.3,43886.13
+Russia,Moscow,2026-03-27,9.8,-0.8,0.0,5.6,36503.99
+Russia,Moscow,2026-03-28,10.5,3.3,0.0,7.4,20073.0
+Russia,Moscow,2026-03-29,15.2,1.6,0.0,10.1,44834.09
+Russia,Moscow,2026-03-30,15.6,1.3,0.0,11.0,45908.74
+Greece,Athens,2026-03-01,13.8,5.2,0.0,11.5,39523.45
+Greece,Athens,2026-03-02,17.3,5.4,0.0,10.2,39600.0
+Greece,Athens,2026-03-03,18.1,7.7,0.0,9.4,39600.0
+Greece,Athens,2026-03-04,18.5,8.3,0.0,7.9,39600.0
+Greece,Athens,2026-03-05,16.6,9.2,0.0,9.3,39600.0
+Greece,Athens,2026-03-06,17.9,9.0,0.2,9.3,33106.93
+Greece,Athens,2026-03-07,16.5,8.5,0.0,13.9,37890.61
+Greece,Athens,2026-03-08,16.4,6.6,0.0,11.7,39600.0
+Greece,Athens,2026-03-09,15.1,6.2,0.0,12.8,39600.0
+Greece,Athens,2026-03-10,17.0,5.4,0.0,9.0,39600.0
+Greece,Athens,2026-03-11,16.8,7.6,0.0,11.9,38274.38
+Greece,Athens,2026-03-12,17.2,7.0,0.0,14.4,39600.0
+Greece,Athens,2026-03-13,17.0,6.7,0.0,9.5,39600.0
+Greece,Athens,2026-03-14,16.4,5.8,0.0,12.8,38158.97
+Greece,Athens,2026-03-15,17.2,6.4,0.0,10.1,39600.0
+Greece,Athens,2026-03-16,16.9,7.8,0.0,9.8,33618.48
+Greece,Athens,2026-03-17,13.9,8.8,0.1,13.3,4894.6
+Greece,Athens,2026-03-18,14.9,9.4,1.8,17.2,22173.73
+Greece,Athens,2026-03-19,12.0,7.8,2.6,15.8,9088.24
+Greece,Athens,2026-03-20,10.6,5.3,1.4,14.9,14477.06
+Greece,Athens,2026-03-21,11.9,5.9,0.0,16.8,33111.91
+Greece,Athens,2026-03-22,13.9,6.5,0.0,9.2,34954.92
+Greece,Athens,2026-03-23,14.4,7.0,0.6,5.5,39389.98
+Greece,Athens,2026-03-24,14.0,7.0,2.9,11.2,39600.0
+Greece,Athens,2026-03-25,14.9,7.9,3.4,22.0,29137.05
+Greece,Athens,2026-03-26,17.1,7.1,0.0,12.7,40288.3
+Greece,Athens,2026-03-27,16.6,9.6,6.4,19.5,31278.51
+Greece,Athens,2026-03-28,14.1,6.0,0.1,8.0,30161.83
+Greece,Athens,2026-03-29,16.2,6.6,0.7,11.0,40653.7
+Greece,Athens,2026-03-30,17.8,7.7,0.0,13.8,41165.09
+Belarus,Minsk,2026-03-01,4.4,-0.8,0.0,18.0,38189.98
+Belarus,Minsk,2026-03-02,3.0,-0.1,0.0,18.7,32314.86
+Belarus,Minsk,2026-03-03,1.3,-2.2,0.0,14.7,3978.75
+Belarus,Minsk,2026-03-04,3.4,-1.2,0.0,18.6,38137.99
+Belarus,Minsk,2026-03-05,3.2,-1.8,0.0,21.5,38905.9
+Belarus,Minsk,2026-03-06,3.3,-2.9,0.0,13.8,37685.7
+Belarus,Minsk,2026-03-07,4.9,-2.9,0.0,10.6,39137.49
+Belarus,Minsk,2026-03-08,4.4,-5.8,0.0,9.5,39253.09
+Belarus,Minsk,2026-03-09,7.1,-0.8,0.0,13.1,39368.54
+Belarus,Minsk,2026-03-10,8.4,-0.2,0.0,13.2,39483.79
+Belarus,Minsk,2026-03-11,9.2,1.5,0.0,12.6,36832.95
+Belarus,Minsk,2026-03-12,12.4,2.0,0.0,11.0,39600.0
+Belarus,Minsk,2026-03-13,13.1,2.8,0.0,16.0,39600.0
+Belarus,Minsk,2026-03-14,12.4,2.4,0.0,20.6,39952.17
+Belarus,Minsk,2026-03-15,11.4,1.0,0.0,20.6,39876.95
+Belarus,Minsk,2026-03-16,10.8,-0.5,0.0,14.9,40583.35
+Belarus,Minsk,2026-03-17,10.1,0.2,0.0,12.4,40507.97
+Belarus,Minsk,2026-03-18,9.9,-0.7,0.0,9.2,40823.23
+Belarus,Minsk,2026-03-19,10.6,-0.5,0.0,11.1,41138.54
+Belarus,Minsk,2026-03-20,4.3,1.4,1.7,17.6,0.0
+Belarus,Minsk,2026-03-21,10.9,1.2,0.0,8.7,23750.52
+Belarus,Minsk,2026-03-22,12.1,-0.4,0.0,6.5,42424.05
+Belarus,Minsk,2026-03-23,12.0,-0.2,0.0,9.0,42568.67
+Belarus,Minsk,2026-03-24,13.1,0.2,0.0,11.1,37462.69
+Belarus,Minsk,2026-03-25,14.1,2.0,0.0,20.0,42859.38
+Belarus,Minsk,2026-03-26,13.3,4.5,0.0,18.6,23233.38
+Belarus,Minsk,2026-03-27,14.5,3.2,0.2,11.2,43152.91
+Belarus,Minsk,2026-03-28,15.1,3.2,0.0,12.0,41265.34
+Belarus,Minsk,2026-03-29,15.1,6.2,0.2,11.7,25878.22
+Belarus,Minsk,2026-03-30,17.1,8.0,0.0,9.1,30786.63
+Cyprus,Nicosia,2026-03-01,13.7,4.9,0.4,9.1,36825.47
+Cyprus,Nicosia,2026-03-02,15.8,5.2,0.0,11.6,37330.24
+Cyprus,Nicosia,2026-03-03,19.0,4.8,0.0,11.2,37832.45
+Cyprus,Nicosia,2026-03-04,18.9,8.7,0.2,14.6,34162.85
+Cyprus,Nicosia,2026-03-05,18.7,5.9,0.0,9.4,38832.14
+Cyprus,Nicosia,2026-03-06,18.1,6.3,0.9,12.3,37906.56
+Cyprus,Nicosia,2026-03-07,15.9,8.4,0.0,18.2,38403.34
+Cyprus,Nicosia,2026-03-08,16.5,6.9,0.0,9.4,39753.11
+Cyprus,Nicosia,2026-03-09,17.6,5.6,0.0,10.9,40797.16
+Cyprus,Nicosia,2026-03-10,18.0,7.9,0.0,15.1,40742.47
+Cyprus,Nicosia,2026-03-11,18.9,8.3,0.0,14.9,40906.72
+Cyprus,Nicosia,2026-03-12,18.8,9.5,0.1,15.6,41528.35
+Cyprus,Nicosia,2026-03-13,20.3,7.9,0.0,12.7,39351.13
+Cyprus,Nicosia,2026-03-14,14.9,11.9,14.7,26.1,15557.03
+Cyprus,Nicosia,2026-03-15,15.2,11.5,13.4,31.5,6309.74
+Cyprus,Nicosia,2026-03-16,19.5,8.9,0.1,13.0,42316.12
+Cyprus,Nicosia,2026-03-17,18.8,8.1,0.0,11.7,40068.36
+Cyprus,Nicosia,2026-03-18,19.8,9.8,0.9,18.1,31238.59
+Cyprus,Nicosia,2026-03-19,18.8,9.9,1.2,14.1,28015.21
+Cyprus,Nicosia,2026-03-20,19.0,9.4,6.8,16.4,32800.66
+Cyprus,Nicosia,2026-03-21,16.4,7.2,5.3,9.6,31309.45
+Cyprus,Nicosia,2026-03-22,17.0,6.8,2.1,7.1,34546.3
+Cyprus,Nicosia,2026-03-23,16.6,6.7,20.6,11.7,24975.65
+Cyprus,Nicosia,2026-03-24,17.8,6.5,8.8,12.9,26072.88
+Cyprus,Nicosia,2026-03-25,16.4,8.1,15.3,7.3,24782.26
+Cyprus,Nicosia,2026-03-26,18.3,6.8,0.7,14.0,43108.52
+Cyprus,Nicosia,2026-03-27,19.1,9.6,0.0,23.8,41758.01
+Cyprus,Nicosia,2026-03-28,21.8,7.9,0.1,16.2,32400.0
+Cyprus,Nicosia,2026-03-29,18.0,10.6,7.5,24.3,39091.17
+Cyprus,Nicosia,2026-03-30,17.6,10.8,0.0,25.5,43200.0
+Sweden,Stockholm,2026-03-01,6.6,0.6,1.7,20.5,14268.29
+Sweden,Stockholm,2026-03-02,4.3,-0.9,0.0,13.7,36000.0
+Sweden,Stockholm,2026-03-03,10.1,1.8,0.2,24.3,28325.95
+Sweden,Stockholm,2026-03-04,7.1,0.1,0.0,19.2,36000.0
+Sweden,Stockholm,2026-03-05,7.4,-0.1,0.0,12.7,36000.0
+Sweden,Stockholm,2026-03-06,10.3,-0.2,0.0,14.4,36000.0
+Sweden,Stockholm,2026-03-07,3.9,-1.1,2.9,9.6,8547.19
+Sweden,Stockholm,2026-03-08,10.4,-1.4,0.0,13.1,36194.99
+Sweden,Stockholm,2026-03-09,7.9,1.9,0.8,18.4,36498.03
+Sweden,Stockholm,2026-03-10,10.7,0.2,0.0,12.2,37694.86
+Sweden,Stockholm,2026-03-11,7.2,1.6,0.1,17.2,0.0
+Sweden,Stockholm,2026-03-12,9.8,5.4,1.7,24.0,28003.77
+Sweden,Stockholm,2026-03-13,7.6,4.8,1.9,29.6,28193.24
+Sweden,Stockholm,2026-03-14,4.5,2.0,10.6,10.7,0.0
+Sweden,Stockholm,2026-03-15,4.2,0.9,6.3,13.3,0.0
+Sweden,Stockholm,2026-03-16,6.9,-0.4,0.0,18.1,37873.41
+Sweden,Stockholm,2026-03-17,7.8,1.5,0.0,14.3,29397.4
+Sweden,Stockholm,2026-03-18,10.1,0.8,0.0,16.4,40105.09
+Sweden,Stockholm,2026-03-19,10.6,2.2,0.0,15.4,21844.45
+Sweden,Stockholm,2026-03-20,9.7,-0.5,0.0,12.4,42939.61
+Sweden,Stockholm,2026-03-21,12.6,1.9,0.0,16.2,43081.29
+Sweden,Stockholm,2026-03-22,10.8,2.0,0.0,17.7,43200.0
+Sweden,Stockholm,2026-03-23,8.4,2.8,0.4,20.6,34974.3
+Sweden,Stockholm,2026-03-24,8.0,1.5,0.7,23.3,14594.54
+Sweden,Stockholm,2026-03-25,7.5,4.6,7.4,27.6,7424.82
+Sweden,Stockholm,2026-03-26,7.3,2.3,0.1,17.9,22620.23
+Sweden,Stockholm,2026-03-27,11.1,0.4,0.0,14.2,43381.19
+Sweden,Stockholm,2026-03-28,5.8,1.8,0.2,18.4,2957.18
+Sweden,Stockholm,2026-03-29,8.3,1.6,0.0,18.2,40666.38
+Sweden,Stockholm,2026-03-30,6.6,2.4,0.7,25.8,24987.69
+Spain,Madrid,2026-03-01,14.4,5.8,0.0,9.3,31388.81
+Spain,Madrid,2026-03-02,16.2,4.7,0.6,15.8,39304.44
+Spain,Madrid,2026-03-03,16.6,9.1,1.7,16.1,27419.16
+Spain,Madrid,2026-03-04,16.9,7.3,0.1,12.6,32400.0
+Spain,Madrid,2026-03-05,16.8,7.1,11.1,14.5,39600.0
+Spain,Madrid,2026-03-06,11.2,7.9,9.6,23.8,10800.0
+Spain,Madrid,2026-03-07,11.1,6.2,2.8,16.8,34454.28
+Spain,Madrid,2026-03-08,12.2,5.7,1.1,8.9,37272.56
+Spain,Madrid,2026-03-09,11.4,4.7,11.5,14.1,6710.93
+Spain,Madrid,2026-03-10,12.1,3.8,1.7,9.3,22659.87
+Spain,Madrid,2026-03-11,15.4,5.2,0.0,8.3,35989.61
+Spain,Madrid,2026-03-12,16.7,5.1,0.0,10.2,39600.0
+Spain,Madrid,2026-03-13,17.6,4.9,0.0,15.4,36783.57
+Spain,Madrid,2026-03-14,12.6,8.7,0.2,22.0,8410.22
+Spain,Madrid,2026-03-15,14.4,6.2,0.0,13.7,36000.0
+Spain,Madrid,2026-03-16,18.0,3.3,0.0,7.2,40183.0
+Spain,Madrid,2026-03-17,20.8,4.9,0.0,8.3,40434.88
+Spain,Madrid,2026-03-18,17.9,6.2,0.0,8.8,36120.07
+Spain,Madrid,2026-03-19,18.4,6.9,0.0,13.0,40033.91
+Spain,Madrid,2026-03-20,12.4,7.3,3.2,9.9,12248.36
+Spain,Madrid,2026-03-21,10.7,6.9,6.9,9.7,10493.8
+Spain,Madrid,2026-03-22,17.9,4.1,0.0,11.8,41395.09
+Spain,Madrid,2026-03-23,16.5,6.1,0.0,13.8,42090.74
+Spain,Madrid,2026-03-24,17.9,5.2,0.0,6.4,42313.25
+Spain,Madrid,2026-03-25,22.0,5.9,0.0,18.7,42408.66
+Spain,Madrid,2026-03-26,17.2,5.7,0.0,20.3,42475.43
+Spain,Madrid,2026-03-27,18.9,4.5,0.0,19.0,42844.12
+Spain,Madrid,2026-03-28,16.8,5.2,0.0,23.4,42912.0
+Spain,Madrid,2026-03-29,13.0,4.2,0.0,28.4,43281.84
+Spain,Madrid,2026-03-30,19.1,2.2,0.0,24.4,42445.31
+Germany,Berlin,2026-03-01,10.4,4.5,0.1,17.9,37544.96
+Germany,Berlin,2026-03-02,13.8,2.0,0.0,10.9,36388.17
+Germany,Berlin,2026-03-03,14.8,1.4,0.0,9.1,38200.95
+Germany,Berlin,2026-03-04,10.5,1.2,0.0,10.9,38706.15
+Germany,Berlin,2026-03-05,11.6,-0.9,0.0,11.5,38815.84
+Germany,Berlin,2026-03-06,14.5,0.3,0.0,10.5,38925.42
+Germany,Berlin,2026-03-07,16.3,1.8,0.0,8.3,39034.89
+Germany,Berlin,2026-03-08,14.4,3.9,0.0,13.8,33966.89
+Germany,Berlin,2026-03-09,14.9,3.0,0.0,12.2,37450.02
+Germany,Berlin,2026-03-10,15.2,2.8,0.0,8.9,39362.35
+Germany,Berlin,2026-03-11,16.0,7.1,0.7,19.2,33170.52
+Germany,Berlin,2026-03-12,12.9,5.8,0.1,16.2,39579.64
+Germany,Berlin,2026-03-13,15.2,4.8,0.0,23.4,36271.96
+Germany,Berlin,2026-03-14,13.9,5.0,1.2,18.4,17560.55
+Germany,Berlin,2026-03-15,7.2,4.1,0.6,9.7,0.0
+Germany,Berlin,2026-03-16,8.1,2.4,5.2,23.2,27631.45
+Germany,Berlin,2026-03-17,10.4,-0.1,0.0,9.6,40720.2
+Germany,Berlin,2026-03-18,12.8,0.4,0.0,10.2,41405.07
+Germany,Berlin,2026-03-19,13.9,1.2,0.0,7.5,41711.43
+Germany,Berlin,2026-03-20,11.1,4.2,0.3,11.2,31000.25
+Germany,Berlin,2026-03-21,10.1,4.1,0.3,12.3,28383.9
+Germany,Berlin,2026-03-22,12.9,1.8,0.0,12.7,42607.7
+Germany,Berlin,2026-03-23,14.8,3.2,0.0,7.5,42746.23
+Germany,Berlin,2026-03-24,15.4,4.5,0.0,16.9,22500.0
+Germany,Berlin,2026-03-25,12.2,4.1,1.0,28.7,16109.92
+Germany,Berlin,2026-03-26,7.3,0.8,1.6,18.9,42174.92
+Germany,Berlin,2026-03-27,7.6,-1.2,0.0,12.7,24669.72
+Germany,Berlin,2026-03-28,10.4,0.6,1.4,14.3,26638.15
+Germany,Berlin,2026-03-29,8.8,2.2,0.7,14.8,36612.02
+Germany,Berlin,2026-03-30,7.7,2.4,4.3,19.1,1536.41
+Iceland,Reykjavik,2026-03-01,-1.4,-2.9,0.2,23.8,34038.59
+Iceland,Reykjavik,2026-03-02,-0.2,-4.4,0.1,31.8,31580.46
+Iceland,Reykjavik,2026-03-03,7.1,-8.1,12.3,48.8,0.0
+Iceland,Reykjavik,2026-03-04,4.2,-1.3,4.0,37.8,25023.22
+Iceland,Reykjavik,2026-03-05,1.3,-1.2,2.6,24.9,12520.48
+Iceland,Reykjavik,2026-03-06,4.9,0.3,17.7,48.5,1867.71
+Iceland,Reykjavik,2026-03-07,3.2,0.0,6.1,54.1,3480.68
+Iceland,Reykjavik,2026-03-08,1.6,-0.3,6.3,30.1,10904.27
+Iceland,Reykjavik,2026-03-09,4.0,0.5,19.1,39.1,0.0
+Iceland,Reykjavik,2026-03-10,4.4,1.5,1.8,21.4,31875.59
+Iceland,Reykjavik,2026-03-11,2.2,-1.6,0.2,17.1,38204.65
+Iceland,Reykjavik,2026-03-12,0.5,-2.7,1.4,39.0,10815.2
+Iceland,Reykjavik,2026-03-13,2.3,-0.1,1.4,36.4,34581.24
+Iceland,Reykjavik,2026-03-14,3.4,-2.0,0.4,34.3,27279.25
+Iceland,Reykjavik,2026-03-15,3.0,1.1,4.8,46.6,15576.71
+Iceland,Reykjavik,2026-03-16,1.3,-0.8,0.0,23.4,39600.0
+Iceland,Reykjavik,2026-03-17,1.8,-1.1,0.0,27.4,17560.54
+Iceland,Reykjavik,2026-03-18,2.7,-0.5,1.3,29.2,35290.8
+Iceland,Reykjavik,2026-03-19,7.1,1.7,27.2,48.5,12022.7
+Iceland,Reykjavik,2026-03-20,1.4,-2.6,3.8,51.6,39301.11
+Iceland,Reykjavik,2026-03-21,1.5,-1.9,4.7,47.2,11202.38
+Iceland,Reykjavik,2026-03-22,0.1,-3.5,7.6,36.3,39420.66
+Iceland,Reykjavik,2026-03-23,0.7,-3.0,5.6,35.0,0.0
+Iceland,Reykjavik,2026-03-24,0.3,-4.5,1.2,23.6,0.0
+Iceland,Reykjavik,2026-03-25,-3.5,-8.1,0.0,18.1,36927.05
+Iceland,Reykjavik,2026-03-26,3.3,-4.1,20.2,57.1,14819.77
+Iceland,Reykjavik,2026-03-27,1.8,-2.4,7.5,42.5,22559.03
+Iceland,Reykjavik,2026-03-28,4.0,-6.3,20.9,63.3,24720.04
+Iceland,Reykjavik,2026-03-29,3.4,1.6,16.1,21.1,39454.92
+Iceland,Reykjavik,2026-03-30,3.0,1.0,4.6,30.4,20639.45
+Åland Islands,Mariehamn,2026-03-01,2.8,-0.3,4.8,18.5,0.0
+Åland Islands,Mariehamn,2026-03-02,1.6,-2.5,0.0,21.3,34624.16
+Åland Islands,Mariehamn,2026-03-03,6.9,-0.9,0.2,27.8,14968.81
+Åland Islands,Mariehamn,2026-03-04,6.8,1.1,0.0,29.6,36000.0
+Åland Islands,Mariehamn,2026-03-05,7.3,-0.2,0.0,17.8,36180.27
+Åland Islands,Mariehamn,2026-03-06,8.4,-0.6,0.0,18.0,36562.47
+Åland Islands,Mariehamn,2026-03-07,5.2,-0.9,0.0,8.4,13734.59
+Åland Islands,Mariehamn,2026-03-08,7.1,-0.8,0.0,17.6,33301.09
+Åland Islands,Mariehamn,2026-03-09,6.7,1.6,3.6,22.9,22861.95
+Åland Islands,Mariehamn,2026-03-10,6.0,1.0,0.0,18.8,37840.05
+Åland Islands,Mariehamn,2026-03-11,4.4,1.5,4.0,20.4,3700.93
+Åland Islands,Mariehamn,2026-03-12,7.9,3.2,0.8,33.3,24559.82
+Åland Islands,Mariehamn,2026-03-13,6.8,3.8,1.1,38.1,30415.55
+Åland Islands,Mariehamn,2026-03-14,3.8,2.5,9.1,19.3,0.0
+Åland Islands,Mariehamn,2026-03-15,2.9,0.6,4.4,17.6,0.0
+Åland Islands,Mariehamn,2026-03-16,4.8,0.2,0.0,18.4,37484.9
+Åland Islands,Mariehamn,2026-03-17,4.1,0.6,0.0,21.3,18131.41
+Åland Islands,Mariehamn,2026-03-18,5.3,1.1,0.0,26.1,40038.17
+Åland Islands,Mariehamn,2026-03-19,9.8,2.7,0.0,18.8,27929.75
+Åland Islands,Mariehamn,2026-03-20,8.6,-1.3,0.0,18.0,42477.0
+Åland Islands,Mariehamn,2026-03-21,7.2,2.5,0.0,27.3,42623.68
+Åland Islands,Mariehamn,2026-03-22,7.1,2.8,0.0,27.2,42769.73
+Åland Islands,Mariehamn,2026-03-23,7.3,2.5,0.2,24.5,32400.0
+Åland Islands,Mariehamn,2026-03-24,6.4,0.2,0.4,35.9,21600.0
+Åland Islands,Mariehamn,2026-03-25,5.9,4.1,5.2,36.0,0.0
+Åland Islands,Mariehamn,2026-03-26,5.3,1.9,0.5,28.9,21974.46
+Åland Islands,Mariehamn,2026-03-27,8.5,0.6,0.0,19.9,44076.62
+Åland Islands,Mariehamn,2026-03-28,5.0,1.8,0.3,25.2,19602.84
+Åland Islands,Mariehamn,2026-03-29,6.0,2.6,0.0,20.9,40239.27
+Åland Islands,Mariehamn,2026-03-30,5.4,2.3,0.1,26.5,30267.18
+Slovakia,Bratislava,2026-03-01,12.4,1.7,0.0,11.6,36000.0
+Slovakia,Bratislava,2026-03-02,12.9,5.2,0.0,10.5,30050.31
+Slovakia,Bratislava,2026-03-03,13.4,3.0,0.0,12.4,36396.93
+Slovakia,Bratislava,2026-03-04,13.3,2.9,0.7,10.9,36348.81
+Slovakia,Bratislava,2026-03-05,14.3,2.8,0.0,12.6,37860.24
+Slovakia,Bratislava,2026-03-06,15.2,2.3,0.0,12.6,38099.2
+Slovakia,Bratislava,2026-03-07,15.7,2.8,0.0,13.6,38686.34
+Slovakia,Bratislava,2026-03-08,15.4,3.4,0.0,11.4,38922.47
+Slovakia,Bratislava,2026-03-09,15.6,3.5,0.0,19.1,39854.9
+Slovakia,Bratislava,2026-03-10,16.4,4.1,0.0,15.1,39393.36
+Slovakia,Bratislava,2026-03-11,16.1,4.7,0.0,13.0,38584.91
+Slovakia,Bratislava,2026-03-12,16.5,4.7,0.0,13.1,40208.59
+Slovakia,Bratislava,2026-03-13,16.5,4.9,0.1,17.7,41017.31
+Slovakia,Bratislava,2026-03-14,17.3,7.1,0.0,29.4,41894.43
+Slovakia,Bratislava,2026-03-15,15.2,5.8,0.0,14.7,42105.94
+Slovakia,Bratislava,2026-03-16,11.1,5.0,0.8,18.4,7167.79
+Slovakia,Bratislava,2026-03-17,9.9,2.8,0.4,20.2,39250.16
+Slovakia,Bratislava,2026-03-18,16.2,4.6,0.4,17.9,42179.05
+Slovakia,Bratislava,2026-03-19,14.4,2.9,0.0,12.8,41220.12
+Slovakia,Bratislava,2026-03-20,14.2,4.5,0.0,12.4,43149.07
+Slovakia,Bratislava,2026-03-21,12.9,5.8,0.0,13.9,33643.41
+Slovakia,Bratislava,2026-03-22,14.5,5.8,0.1,12.9,17614.26
+Slovakia,Bratislava,2026-03-23,15.9,6.5,0.2,12.0,42738.83
+Slovakia,Bratislava,2026-03-24,16.6,6.3,0.0,14.3,31753.64
+Slovakia,Bratislava,2026-03-25,18.1,4.2,0.5,26.7,37020.58
+Slovakia,Bratislava,2026-03-26,5.7,2.8,16.1,29.3,0.0
+Slovakia,Bratislava,2026-03-27,6.8,2.7,5.0,32.7,0.0
+Slovakia,Bratislava,2026-03-28,6.7,2.3,1.2,28.7,9946.6
+Slovakia,Bratislava,2026-03-29,7.1,3.4,5.2,33.9,3614.87
+Slovakia,Bratislava,2026-03-30,9.6,4.7,0.0,21.5,1608.8
+Malta,Valletta,2026-03-01,17.0,11.3,0.0,12.2,39061.44
+Malta,Valletta,2026-03-02,17.6,13.0,0.1,16.8,38737.79
+Malta,Valletta,2026-03-03,17.5,13.8,0.0,18.8,36000.0
+Malta,Valletta,2026-03-04,17.4,14.5,0.0,20.4,35743.83
+Malta,Valletta,2026-03-05,16.8,13.9,0.0,22.9,39373.07
+Malta,Valletta,2026-03-06,16.4,14.8,7.9,24.4,11002.91
+Malta,Valletta,2026-03-07,17.7,14.4,0.0,19.9,39481.27
+Malta,Valletta,2026-03-08,17.6,14.8,0.2,23.4,39684.41
+Malta,Valletta,2026-03-09,17.3,14.6,2.1,27.3,38519.12
+Malta,Valletta,2026-03-10,16.9,14.2,0.1,32.3,39663.45
+Malta,Valletta,2026-03-11,16.8,13.6,1.1,20.2,39905.2
+Malta,Valletta,2026-03-12,16.9,12.6,1.0,10.0,39861.44
+Malta,Valletta,2026-03-13,16.6,12.2,0.4,15.3,40102.34
+Malta,Valletta,2026-03-14,15.2,11.3,0.8,14.7,39600.0
+Malta,Valletta,2026-03-15,18.6,11.6,10.4,26.3,20310.76
+Malta,Valletta,2026-03-16,16.2,11.2,7.4,30.7,13973.04
+Malta,Valletta,2026-03-17,15.5,11.9,4.3,33.9,38638.43
+Malta,Valletta,2026-03-18,16.8,12.6,1.0,20.3,40735.1
+Malta,Valletta,2026-03-19,15.2,11.8,2.2,25.8,41259.59
+Malta,Valletta,2026-03-20,16.6,10.2,0.1,9.4,41784.2
+Malta,Valletta,2026-03-21,15.8,10.6,0.7,10.3,41741.04
+Malta,Valletta,2026-03-22,15.8,11.4,2.1,9.1,31791.63
+Malta,Valletta,2026-03-23,16.5,11.0,0.5,8.9,37478.3
+Malta,Valletta,2026-03-24,15.8,11.1,0.4,14.0,40983.51
+Malta,Valletta,2026-03-25,16.8,12.3,0.0,26.7,43041.21
+Malta,Valletta,2026-03-26,17.5,12.2,0.3,38.6,35208.35
+Malta,Valletta,2026-03-27,14.4,10.2,1.1,41.7,43160.32
+Malta,Valletta,2026-03-28,15.6,10.9,0.0,34.7,42241.78
+Malta,Valletta,2026-03-29,15.9,11.9,1.6,26.8,41811.54
+Malta,Valletta,2026-03-30,16.4,10.9,1.1,11.8,38765.61
+Austria,Vienna,2026-03-01,13.0,2.2,0.0,11.4,35083.66
+Austria,Vienna,2026-03-02,12.1,5.6,0.0,8.4,19456.44
+Austria,Vienna,2026-03-03,13.4,1.9,0.0,8.5,36667.91
+Austria,Vienna,2026-03-04,11.1,1.9,0.8,12.2,35214.3
+Austria,Vienna,2026-03-05,13.5,3.0,0.0,12.0,37974.7
+Austria,Vienna,2026-03-06,14.8,1.6,0.0,15.6,38461.5
+Austria,Vienna,2026-03-07,15.1,4.4,0.0,17.1,39028.54
+Austria,Vienna,2026-03-08,15.4,2.8,0.0,10.8,36761.76
+Austria,Vienna,2026-03-09,15.1,3.8,0.0,21.1,38472.79
+Austria,Vienna,2026-03-10,15.8,4.3,0.0,12.0,40102.3
+Austria,Vienna,2026-03-11,15.8,3.6,0.0,9.3,39639.27
+Austria,Vienna,2026-03-12,14.6,4.4,0.5,13.9,40221.57
+Austria,Vienna,2026-03-13,17.0,4.2,0.0,17.8,40932.17
+Austria,Vienna,2026-03-14,17.8,7.4,0.0,26.8,41275.05
+Austria,Vienna,2026-03-15,12.9,5.8,0.4,14.5,39868.85
+Austria,Vienna,2026-03-16,11.6,5.1,1.4,20.2,3523.75
+Austria,Vienna,2026-03-17,8.9,2.9,1.1,19.1,42071.79
+Austria,Vienna,2026-03-18,15.5,3.9,0.0,13.7,42442.57
+Austria,Vienna,2026-03-19,13.2,3.0,0.0,11.7,40239.89
+Austria,Vienna,2026-03-20,13.6,2.8,0.0,10.8,43046.69
+Austria,Vienna,2026-03-21,12.4,4.9,0.3,11.3,32601.05
+Austria,Vienna,2026-03-22,13.4,4.0,0.4,11.0,24546.1
+Austria,Vienna,2026-03-23,14.4,2.9,0.0,9.2,43200.0
+Austria,Vienna,2026-03-24,16.1,6.3,0.0,14.8,37731.27
+Austria,Vienna,2026-03-25,19.2,4.3,3.6,25.5,30186.76
+Austria,Vienna,2026-03-26,6.0,3.1,12.3,25.8,0.0
+Austria,Vienna,2026-03-27,6.2,3.0,2.9,25.6,0.0
+Austria,Vienna,2026-03-28,5.7,2.0,2.1,24.5,0.0
+Austria,Vienna,2026-03-29,6.5,3.7,1.9,28.8,0.0
+Austria,Vienna,2026-03-30,9.1,3.3,0.2,25.1,28405.79
+Latvia,Riga,2026-03-01,5.8,1.8,1.6,16.9,18800.14
+Latvia,Riga,2026-03-02,3.5,0.1,0.3,19.9,13618.9
+Latvia,Riga,2026-03-03,3.4,-0.6,0.0,18.1,11107.62
+Latvia,Riga,2026-03-04,6.6,0.3,0.0,21.1,38461.98
+Latvia,Riga,2026-03-05,5.8,0.3,0.0,20.6,38751.5
+Latvia,Riga,2026-03-06,8.8,-2.2,0.0,11.8,39002.59
+Latvia,Riga,2026-03-07,7.2,-1.1,0.0,10.1,35562.64
+Latvia,Riga,2026-03-08,11.0,-1.6,0.0,9.0,39095.43
+Latvia,Riga,2026-03-09,12.9,-0.1,0.0,14.4,39485.89
+Latvia,Riga,2026-03-10,13.9,1.2,0.0,14.1,39600.0
+Latvia,Riga,2026-03-11,12.6,2.0,4.1,17.0,37928.58
+Latvia,Riga,2026-03-12,11.3,2.0,12.4,15.9,17275.97
+Latvia,Riga,2026-03-13,11.8,-0.1,0.0,21.1,39600.0
+Latvia,Riga,2026-03-14,14.5,6.1,0.0,20.3,39600.0
+Latvia,Riga,2026-03-15,12.5,3.6,2.3,21.2,38543.6
+Latvia,Riga,2026-03-16,7.3,2.0,1.6,13.2,2233.17
+Latvia,Riga,2026-03-17,7.8,1.0,0.0,11.8,26432.84
+Latvia,Riga,2026-03-18,5.6,-1.1,0.0,7.9,21265.64
+Latvia,Riga,2026-03-19,8.9,-2.5,2.6,13.1,22909.64
+Latvia,Riga,2026-03-20,5.0,-0.1,0.0,15.5,39928.85
+Latvia,Riga,2026-03-21,10.2,-2.5,0.0,11.1,40625.7
+Latvia,Riga,2026-03-22,11.1,-1.0,0.0,9.4,41323.31
+Latvia,Riga,2026-03-23,13.1,-0.5,0.0,18.9,28162.76
+Latvia,Riga,2026-03-24,11.4,0.8,0.0,17.6,32960.17
+Latvia,Riga,2026-03-25,13.6,7.4,1.0,28.8,10891.27
+Latvia,Riga,2026-03-26,9.9,1.9,0.4,15.1,27916.31
+Latvia,Riga,2026-03-27,11.8,0.1,0.0,11.2,44399.66
+Latvia,Riga,2026-03-28,9.3,-0.4,0.0,9.1,38264.77
+Latvia,Riga,2026-03-29,8.2,0.8,0.0,8.3,20467.7
+Latvia,Riga,2026-03-30,10.4,1.4,0.0,9.3,42710.49
+Bulgaria,Sofia,2026-03-01,10.9,-3.1,0.0,7.3,39187.98
+Bulgaria,Sofia,2026-03-02,14.3,-1.2,0.0,4.5,39284.3
+Bulgaria,Sofia,2026-03-03,15.0,2.0,0.0,6.0,33480.12
+Bulgaria,Sofia,2026-03-04,14.7,0.4,0.0,9.8,39477.92
+Bulgaria,Sofia,2026-03-05,12.8,2.6,2.1,13.9,28800.0
+Bulgaria,Sofia,2026-03-06,13.6,-0.1,0.0,7.1,39600.0
+Bulgaria,Sofia,2026-03-07,14.1,-0.5,0.0,7.5,39600.0
+Bulgaria,Sofia,2026-03-08,13.5,-0.5,0.0,10.2,36670.32
+Bulgaria,Sofia,2026-03-09,11.2,-0.7,0.0,16.7,39600.0
+Bulgaria,Sofia,2026-03-10,11.9,-1.2,0.0,14.1,39600.0
+Bulgaria,Sofia,2026-03-11,14.4,-1.5,0.0,9.9,39600.0
+Bulgaria,Sofia,2026-03-12,15.9,0.3,0.0,8.6,39600.0
+Bulgaria,Sofia,2026-03-13,13.8,-1.0,0.0,13.1,39769.41
+Bulgaria,Sofia,2026-03-14,14.2,-1.1,0.0,11.8,39733.16
+Bulgaria,Sofia,2026-03-15,12.2,-2.0,0.0,8.7,40010.13
+Bulgaria,Sofia,2026-03-16,13.7,-1.3,0.0,12.8,39974.08
+Bulgaria,Sofia,2026-03-17,12.4,-0.7,0.0,19.1,36098.47
+Bulgaria,Sofia,2026-03-18,8.3,3.0,0.1,23.4,3600.3
+Bulgaria,Sofia,2026-03-19,7.6,1.1,0.1,15.7,20792.62
+Bulgaria,Sofia,2026-03-20,7.1,-0.9,0.5,11.2,11306.65
+Bulgaria,Sofia,2026-03-21,9.0,0.9,0.0,13.8,20194.81
+Bulgaria,Sofia,2026-03-22,9.6,3.9,0.1,9.8,21417.62
+Bulgaria,Sofia,2026-03-23,8.7,3.4,0.2,8.5,19452.94
+Bulgaria,Sofia,2026-03-24,9.5,2.4,1.2,6.9,467.29
+Bulgaria,Sofia,2026-03-25,14.8,1.8,0.0,9.8,40194.86
+Bulgaria,Sofia,2026-03-26,18.1,1.6,0.0,11.2,40421.15
+Bulgaria,Sofia,2026-03-27,9.6,3.4,9.5,19.4,13163.33
+Bulgaria,Sofia,2026-03-28,9.7,2.0,4.8,14.0,18266.09
+Bulgaria,Sofia,2026-03-29,9.0,2.1,0.4,18.4,14183.19
+Bulgaria,Sofia,2026-03-30,11.0,3.4,0.3,15.5,16165.73

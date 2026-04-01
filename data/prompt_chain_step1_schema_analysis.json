@@ -1,0 +1,123 @@
+{
+  "dataset_summary": {
+    "row_count_estimate": 200,
+    "column_count": 9,
+    "notes": [
+      "Schema inferred from sample records"
+    ]
+  },
+  "columns": [
+    {
+      "column_name": "country",
+      "inferred_type": "str",
+      "example_values": [
+        "Albania",
+        "Albania",
+        "Albania",
+        "Albania",
+        "Albania"
+      ],
+      "potential_quality_issues": []
+    },
+    {
+      "column_name": "capital",
+      "inferred_type": "str",
+      "example_values": [
+        "Tirana",
+        "Tirana",
+        "Tirana",
+        "Tirana",
+        "Tirana"
+      ],
+      "potential_quality_issues": []
+    },
+    {
+      "column_name": "date",
+      "inferred_type": "datetime64[us]",
+      "example_values": [
+        "2026-03-01 00:00:00",
+        "2026-03-02 00:00:00",
+        "2026-03-03 00:00:00",
+        "2026-03-04 00:00:00",
+        "2026-03-05 00:00:00"
+      ],
+      "potential_quality_issues": []
+    },
+    {
+      "column_name": "temperature_2m_max",
+      "inferred_type": "float64",
+      "example_values": [
+        "15.9",
+        "15.8",
+        "16.2",
+        "17.0",
+        "15.9"
+      ],
+      "potential_quality_issues": []
+    },
+    {
+      "column_name": "temperature_2m_min",
+      "inferred_type": "float64",
+      "example_values": [
+        "5.8",
+        "5.8",
+        "6.6",
+        "7.2",
+        "5.4"
+      ],
+      "potential_quality_issues": []
+    },
+    {
+      "column_name": "precipitation_sum",
+      "inferred_type": "float64",
+      "example_values": [
+        "0.0",
+        "0.0",
+        "0.0",
+        "0.0",
+        "0.2"
+      ],
+      "potential_quality_issues": []
+    },
+    {
+      "column_name": "wind_speed_10m_max",
+      "inferred_type": "float64",
+      "example_values": [
+        "10.5",
+        "12.5",
+        "11.3",
+        "8.2",
+        "13.0"
+      ],
+      "potential_quality_issues": []
+    },
+    {
+      "column_name": "sunshine_duration",
+      "inferred_type": "float64",
+      "example_values": [
+        "37618.89",
+        "35465.8",
+        "37575.68",
+        "38735.29",
+        "30339.64"
+      ],
+      "potential_quality_issues": []
+    },
+    {
+      "column_name": "sunshine_duration_hours",
+      "inferred_type": "float64",
+      "example_values": [
+        "10.449691666666666",
+        "9.851611111111112",
+        "10.43768888888889",
+        "10.759802777777779",
+        "8.427677777777777"
+      ],
+      "potential_quality_issues": []
+    }
+  ],
+  "global_quality_risks": [
+    "Duplicates possible",
+    "Inconsistent casing possible"
+  ]
+}
