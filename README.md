@@ -4,7 +4,7 @@ Repository for Telia 2026 data engineer test task
 ## Database structure information 
 
 
-CREATE TABLE "clean_weather_daily" (
+```CREATE TABLE "clean_weather_daily" (
 "country" TEXT,
   "capital" TEXT,
   "date" TIMESTAMP,
@@ -55,7 +55,7 @@ CREATE VIEW v_capitals_ranked_by_avg_temp AS
 SELECT country, capital, ROUND(AVG(temperature_2m_max), 2) AS avg_temperature_2m_max
 FROM clean_weather_daily
 GROUP BY country, capital
-ORDER BY avg_temperature_2m_max DESC;
+ORDER BY avg_temperature_2m_max DESC;```
 
 CREATE VIEW v_countries_most_rainfall AS
 SELECT country, capital, ROUND(SUM(precipitation_sum), 2) AS total_precipitation_sum
